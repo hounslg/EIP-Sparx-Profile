@@ -5,8 +5,8 @@
 		<Stereotypes>
 			<Stereotype name="EIP::Aggregated Message(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAAjLgAAIy4AAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABYYHQJAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAD////////////////////////9/f3M0c2+vbi8wLrY2tf/////////
+ZgAuACoAIABmAHIAbwBtACAAdABfAHgAcgBlAGYALAAgAHQAXwBvAGIAagBlAGMAdAAgAHcA
+aABlAHIAZQAgACAAdAD////////////////////////9/f3M0c2+vbi8wLrY2tf/////////
 ///////////////////////////29vbo6Ojm5uaOs6ujp6aVtLGptK7+/v7/////////////
 ///////////////////Ly8u+vr7Nzc2GsaqrsK+cvbuquLD+/v7/////////////////////
 ///////////IyMjq6ur7/PuturSgn5ibpp7AxL/+/v7/////////////////////////////
@@ -27,7 +27,7 @@ np7k5OT////////////////////////////////////////////////9/f3z8/P4+Pj/////
 			</Stereotype>
 			<Stereotype name="EIP::application(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAAjLgAAIy4AAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwgN9mAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABguToGAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAD19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fXz8/Pz
 8/Pz8/Pz8/OTysqTysqTysqTysqTysqTysqTysqSysqQy8qOysqNzMyNtK/ExKfIyKrIyKrI
 yKmm//+m//+m//+m//+m//+m//+m//+k//+h//+d//+Z//+N08v09Mr//9X//9X//9Km//+m
@@ -49,7 +49,7 @@ wsKXwsKVwsKVw8OVsq67u6S+vqa+vqa9vaU=</Icon>
 			</Stereotype>
 			<Stereotype name="EIP::Channel Adapter(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAASCwAAEgsAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwc01hAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABYYKQKAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAACqqqqnp6enp6enp6fT09PX19fW1tb7+/v/////////////////////
 //////////9NcHA0XFw0XFw0TU2tra1gYF1paWmqqqrn5+f/////////////////////////
 //95/f1l/f1l/f1MrKypqqqgoIibm31VVU6Pj4/7+/v///////////////////////95//9m
@@ -114,7 +114,7 @@ rq7f39+/v7/h4eGysrKzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Orq6vn
 			</Stereotype>
 			<Stereotype name="EIP::Claim Check Message(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAAjLgAAIy4AAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABYYHQJAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABYYKQKAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAD////////////////////////////////////+/v7+/v77+/v6+vr7
 +/v////////////////////////////09PTc3Nzb29ve3t69vb20tLSXl5eAgICdnZ339/f/
 ///////////////////////Q0NC0tLTOzs7Pz892dnZSUlKFhYWJiYmgoKD19fX/////////
@@ -157,7 +157,7 @@ AAAAAAAAAAAA////</Icon>
 			</Stereotype>
 			<Stereotype name="EIP::Component(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAAjLgAAIy4AAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwgN9mAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwWBVmAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAACjt7ebwMCav7+av7+av7+av7+av7+av7+av7+av7+av7+av7+av7+Z
 v7+Yv7+Xv79+wcGf/v6f/f2f/f2f/f2f/f2f/v6f/v6f/v6f/v6f/f2f/f2e/f2a/f2X/f2T
 /v5+wMCg//+g//+g//+g//+g//+g//+g//+g//+g//+g//+g//+f//+c//+Y//+U//9+wMCg
@@ -242,7 +242,7 @@ RHFbRHFbPGJPrK6t</Icon>
 			</Stereotype>
 			<Stereotype name="EIP::Control Bus(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAAjLgAAIy4AAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQU2VjAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgMFZiAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAD/////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////
 ///////+/v7t7e3Y2NjOzs7Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Ozs7a2trw8PD////////7+/vM
@@ -264,7 +264,7 @@ wMC1tbXPz8/Dw8O4uLiDg4MhVSFNuk0JHgkAAAABAQFFqEUyfjIKCgqRkZHAwMDAwMCzs7PS
 			</Stereotype>
 			<Stereotype name="EIP::Corrolation ID Message(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAAjLgAAIy4AAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAv+gJAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQQHpuAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAD////////////////////////////////v7+/X2NjW19jc3N37+/v/
 ///////////////////////////////+/v79/f38/Py3vr5Eo8NCnc9VeJnr6+v/////////
 ///////////////////+/v7FxcWvr6+2traNkplEsuZJvvtTlLbp6en/////////////////
@@ -307,8 +307,8 @@ urq6urq6urq6urq6urq6vLy89/f3////////////////////////////////////////////
 			</Stereotype>
 			<Stereotype name="EIP::Detour(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAAjLgAAIy4AAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQqNdjAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAD19fX19fX19fX19fX09PT09PT09PT09PT19fX19fX19fX19fX19fX1
+ZgAuACoAIABmAHIAbwBtACAAdABfAHgAcgBlAGYALAAgAHQAXwBvAGIAagBlAGMAdAAgAHcA
+aABlAHIAZQAgACAAdAD19fX19fX19fX19fX09PT09PT09PT09PT19fX19fX19fX19fX19fX1
 9fX19fX19fWUx7CUx7CUx7CUx7CUx7CUx7CUx7CUx7CTx7CRyK+PyK6OyK2MyK2KyKyIyauH
 yaqu/+Gu/+Gu/+Gu/+Gu/+Gu/+Cu/+Ct/+Cs/+Co/96k/92g/9yc/9uY/9mU/9iQ/9eu/+Gu
 /+Gu/+Gu/+Gt/+Cs/t+u/+Gu/+Gs/+Cp/9+j/tyg/9uc/9uZ/9qU/9iR/9eQ3L2P2ruP27uP
@@ -329,8 +329,8 @@ kHhxtJSEza2BzKx/zax4x6V4y6d1zahxzaduzaZu0aiu/+Gu/+Gu/+Gu/+Gu/+Gf7s99xKWr
 			</Stereotype>
 			<Stereotype name="EIP::EIP Message Images(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAATCwAAEwsAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQ7EwOAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAADj2NaaoqGGpqWEo6KFpaSGqKeIqaiIqaiIqaiIqaiHqaiFpqWEo6KF
+ZgAuACoAIABmAHIAbwBtACAAdABfAHgAcgBlAGYALAAgAHQAXwBvAGIAagBlAGMAdAAgAHcA
+aABlAHIAZQAgAHQAXwDj2NaaoqGGpqWEo6KFpaSGqKeIqaiIqaiIqaiIqaiHqaiFpqWEo6KF
 pqWPo6HWy8nWy8k8yckl+fkl+Pgl+fkg7e0e6Oge6Oge6Oge6Oge6ekk+Pgl+Pgl+fki4+O5
 trXVysg6y8sq//8q//8o/f0YtrYNj48RkZERkZEOkJAQn58m9vYq//8q//8j6Oi2tLLWy8g5
 yskp//8q//8p/v4e1tYZy8sbzc0azMwYyckXyckn+voq//8q//8i5+e2tLHWy8g60NAn+/sn
@@ -372,8 +372,8 @@ pqampqampqam2NjY</Icon>
 			</Stereotype>
 			<Stereotype name="EIP::Generic Messages(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAAjLgAAIy4AAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQ7EwOAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAD/////////////////////////////////////////////////////
+ZgAuACoAIABmAHIAbwBtACAAdABfAHgAcgBlAGYALAAgAHQAXwBvAGIAagBlAGMAdAAgAHcA
+aABlAHIAZQAgACAAdAD/////////////////////////////////////////////////////
 ///////////////////////////////////////////////////39/fb29vU2dLz8/P/////
 ///////////////////////////////////////19fWVlpY9Ykw4aUCAg4Dt7e3/////////
 ///////////6+vre3t7Y2NjY2Njb29u9vb1LnJSE7aqN8JZYsYCztLT+/v7/////////////
@@ -457,8 +457,8 @@ RHFbRHFbPGJPrK6t</Icon>
 			</Stereotype>
 			<Stereotype name="EIP::Message Canonical(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAAjLgAAIy4AAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwoz8GAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAD////////////////////////////////////+/v7+/v7+/v7+/v7+
+YQBzACAARABpAGEAZwByAGEAbQBfAEkARAAsACAAbgB1AGwAbAAgAGEAcwAgAFIAZQBjAHQA
+VABvAHAALAAgAG4AdQD////////////////////////////////////+/v7+/v7+/v7+/v7+
 /v7////////////////////////////////////////9/f3Pz8+6tbXIvb3FwcG/tbXq6ur/
 ///////////////////////////////////39/d/mZmDq6uYfX2Gr6+PW1vExMT+/v7/////
 ///////////u7u7f39/f39/g4ODe3t59pKSY0NCtpKSaz8+ebm7Jycn+/v7////////////6
@@ -521,7 +521,7 @@ gICAeXl539/f////////////////////////////////////////////5OTkfHx8gICAhYWF
 			</Stereotype>
 			<Stereotype name="EIP::Message Expiration(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAAjLgAAIy4AAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAv+gJAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwoxIGAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAD////////////////////////////////f39+6wMG6vsLBwsT19fb/
 ///////////////////////////////7+/v5+fn5+fmjsLFErNVAr+FDeqbk5eX/////////
 ///////////////////39/eoqKiqqqqysrJ+iZRKuutDuftFjrzk5OT/////////////////
@@ -543,7 +543,7 @@ t7efn5+tra39/f3////////////////////////////////////////y8vK2traTk5O2trbz
 			</Stereotype>
 			<Stereotype name="EIP::Message Fail(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAATCwAAEwsAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwoz8GAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQqNdjAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAD+/v7z8/b4+Pn////////////////////////////////////8/P3x
 8fT8/Pz////n5+1zc6OLi7br6/L////////////////////////////5+fu4uNFjY5y/v9H+
 /v7c3OU6Oo4ICJSEhL7s7PP////////////////////6+vu4uNcyMpwGBoilpcL9/f36+vu2
@@ -584,9 +584,31 @@ AAAAAAAAAAAA////</Icon>
 					<Apply type="ToolboxItemImage"/>
 				</AppliesTo>
 			</Stereotype>
+			<Stereotype name="EIP::Message History(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAAjLgAAIy4AAAAAAAAAAAAA
+ZgAuACoAIABmAHIAbwBtACAAdABfAHgAcgBlAGYALAAgAHQAXwBvAGIAagBlAGMAdAAgAHcA
+aABlAHIAZQAgAHQAXwD////////////////////e3t6zsa7+7Mz/6L3HvK3/////////////
+///////////////////////////////AwMDIxsP76cr85brHva7////y8vLw8PD39/j/////
+///////////////////////ExMTp6enLycfLysfU1NO+vr5Kg7I/ndmxusr/////////////
+///////////////ExMT////////////s7Ozd3d1tjbphp9S6v8X/////////////////////
+///////ExMT////////////r6+ve3t60x7uuz8HX29v////////////////////////////E
+xMT////////////s7Oy4uLhmzZtq9ceyy77////////////////////////////ExMT/////
+///////u7u7f39+oxLydz7bN1c7////////////////////////////ExMT///+DtrZez89d
+0tJez89ux8ejt7f///////////////////////////////+wsLDY2NhTzMwUq6sUj48Wi4sW
+i4qHvLv////////////////////////////////CwsL19fVg0NAW6+sW5uYW5OQV2NiHu7v/
+///////////////////////////////ExMT///9rmZkRpKQT/f0T+/sMwcGInJz/////////
+///////////////////+/v7Gxsb////X19fNzc3I0dHHzs7Mzs7c29v/////////////////
+///////19fWampqbm5uvr6/+/v7////////////////////////////////////////////G
+xsa5ubnAwMCgoKDq6ur////////////////////////////////////////////c3Nyjo6PA
+wMCSkpL39/f////////////////////////////////////////////////U1NS1tbXm5ub/
+//////////////////////////////////8=</Icon>
+				<AppliesTo>
+					<Apply type="ToolboxItemImage"/>
+				</AppliesTo>
+			</Stereotype>
 			<Stereotype name="EIP::Message Request Response(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAAjLgAAIy4AAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAv+gJAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQqNdjAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAD////////////////////////////////////////////+/v78/Pz/
 ///////////////////////////////////////////////////8/PzP0NSiorLx8fH/////
 ///////////////////////////8/Pz19fX19fXz8/O+xcZSiMklZcORpK7w8PD/////////
@@ -755,7 +777,7 @@ pqampqampqamxMTE</Icon>
 			</Stereotype>
 			<Stereotype name="EIP::Request Reply(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAAjLgAAIy4AAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACI1dFiAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwoxIGAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAACu/+Gu/+Gu/+Gu/+Gu/+Gu/+Gu/+Gu/+Gt/+Gq/+Cm/96j/92g/9yc
 /9uZ/9qV/9mu/+Gu/+Gu/+Gu/+Gu/+Gu/+Gu/+Gu/+Gt/+Gq/+Cm/96i/92e/9ub/9qY/9mV
 /9mu/+Gu/+Gu/+Gu/+Gu/+Gu/+Gu/+Gu/+Gt/+Gq/+Cm/96H3rpqsZFosJBmuJSM9c2u/+Gg
@@ -777,7 +799,7 @@ tqqetqqetqmdtqmdtqmctqict6ict6ibt6g=</Icon>
 			</Stereotype>
 			<Stereotype name="EIP::Resequencer(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAAjLgAAIy4AAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACoeCEFAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwoxIGAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAACYzbOXzbKXzLKXzLKXzLKXzLKXzLKXzLKXzLKXzbKWzbGUzbCSzbCR
 za+Pzq6Nzq2l/9il/9il/9il/9il/9il/9il/9il/9il/9ik/9eh/9ad/9SZ/9KV/9CQ/8+M
 /82l/9il/9ii/NWh+9Oh+9Oi/NSl/9il/9il/9il/9ii/9ad/9SZ/9OV/9GR/8+N/82l/9ih
@@ -799,7 +821,7 @@ xrirxrirxriqxrepxreox7aox7anx7Wmx7U=</Icon>
 			</Stereotype>
 			<Stereotype name="EIP::Return Address(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAATCwAAEwsAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwgN9mAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACoeOYFAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAD////////////////////////////w8PChs7OWpLKXo6/b2tz/////
 ///////////////////////////6+vrx8fHx8fHb3NxcqchXue5QntzBxcn/////////////
 ///////////////////T09PBwcHNzc3BwcJXpcpaufVSp+HBxcn/////////////////////
@@ -842,7 +864,7 @@ mf/Mmf/Mmf/Mmf/Mmf/M////////////////////////////////////////////////////
 			</Stereotype>
 			<Stereotype name="EIP::Store Claim Check(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAAjLgAAIy4AAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwgN9mAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQ7J0JAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAADW2dfW2tjX2tjX3NnZ3tva4N3b4d7c4t7c4t7b4d7a39zY3tvX3NnW
 29jW2tjW2tiY5cWY5caW48OM2LeCy6l7wJ94upp3tpZ2t5Z2vpt3xqB70KqA3LSE5b2C5b6A
 5b2u/+Gj89R0rJN2i4CKkI2bnJyen5+goaCenp6YmZiLjox6hH5mhnZptpSP+dGS/9iu/+GD
@@ -914,6 +936,7 @@ wsLCwsLDxcPEysbD0sm/0ce6y8K4x7+4x74=</Icon>
 					<Apply type="ToolboxPage"/>
 				</AppliesTo>
 				<TaggedValues>
+					<Tag name="EIP::Message History(UML::Class)" type="" description="" unit="" values="" default="Message History"/>
 					<Tag name="EIP::EIP Message Images(UML::Class)" type="" description="" unit="" values="" default="Message Elements"/>
 					<Tag name="EIP::message(UML::Class)" type="" description="" unit="" values="" default="Message (2 Elements)"/>
 					<Tag name="EIP::Aggregated Message(UML::Class)" type="" description="" unit="" values="" default="Aggregated Message (3 Elements)"/>

@@ -4,7 +4,7 @@
 	<Content>
 		<Stereotypes>
 			<Stereotype name="Aggregated Message" metatype="Aggregated Message" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
-				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAFx7m1Am8/SBowIAAJYLAAAHABEAc3RyLmRhdFVUDQAHtvmmXrb5pl62+aZe
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAKJ2oVAm8/SBowIAAJYLAAAHABEAc3RyLmRhdFVUDQAH3TesXt03rF7dN6xe
 vVbLbhoxFL1bKvUfRnRDpUhtQoCgKosmjdpFHxFEyrIiQEhUOiCgadQo/95zfO15eOyBplU1
 sj2Mj4/PfRmv5UZGspSpJPIdb7eSynN5hl8PZmxg/iu+zzEzw1wix2hNOZUz+SwX6Af49cZi
 70rY4ygulYWszc4TvP0EciMr+QEVikjscw2me3ydyFvgqXIM5ADrNphZZGrc6nwH7d/h27UM
@@ -17,8 +17,8 @@ ET4HHXJbDhDj+1q1lnf0M7Xsl2LkfL5e5oE4n2J25duuTzE+365+Y9M4Mxqp4WVc1WtJttfa
 8sbil1dltTZ9qw5t/sYzXBH9kkV+VKqI0C7s6znKiBBHt+Y8dGevf7IWG+uPlbJCvzR5yTjk
 +D/1aV31hf4lXXadAT3BPiEFvK0s5BuYQvO7WBHXFP+/fKoitqeqqTuf/kYP22NBXX6HnePt
 Sni34sxD5k1G/QtYeTNlTrVwVxyiVpuiZ6FGLzF49/+ltToR3iE1DxOjRccpzv2N8I7KDMpn
-ygoa0MVdU8zP7b4vMI5w45jirZnZpfZo/H8DUEsBAhcLFAAAAAgAXHubUCbz9IGjAgAAlgsA
-AAcACQAAAAAAAAAAAACAAAAAAHN0ci5kYXRVVAUAB7b5pl5QSwUGAAAAAAEAAQA+AAAA2QIA
+ygoa0MVdU8zP7b4vMI5w45jirZnZpfZo/H8DUEsBAhcLFAAAAAgAonahUCbz9IGjAgAAlgsA
+AAcACQAAAAAAAAAAAACAAAAAAHN0ci5kYXRVVAUAB903rF5QSwUGAAAAAAEAAQA+AAAA2QIA
 AAAA</Image>
 				<AppliesTo>
 					<Apply type="Class">
@@ -693,8 +693,38 @@ XlBLBQYAAAAAAQABAD4AAACpAQAAAAA=</Image>
 					</Apply>
 				</AppliesTo>
 			</Stereotype>
+			<Stereotype name="Message History" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAKSioVDyEOw0LAMAADQNAAAHABEAc3RyLmRhdFVUDQAHzoSsXs6ErF7OhKxe
+tVfJbtswEJ2rC/QfBOfiAClaxzuKHLr30LRFbKDHwo2dBXDkwHaXtMi/970Z0SJlSjICBAJJ
+SXx8s3IoreVKpnIrc0nkBnfXkspTeYKnfzo2MP8d7xeYucRcIidoTXkj7+SzTNCf4ellhv0V
+YE9KcaksZa2SZ7j7DeRGVvITWhgiya4LMP3B25m8Ap5angN5hnUbzCy32rjVuQTr3+LdhYyB
+/Yu7lvTkhRxpf5gh2Z7jSqBhCv3n0H6pkoxhjLuNfEWfwpalzq7ANFKmvHd84YpvkDzD0xVW
+tHcw7zG7wOXzHkO7HjjdGGragO3mgynYL7Eqt6qDNU6jPu5zabE1Q0V3VMZQBui7gYbOg6fQ
+i16ZYKQktypHftKccQhKLiKquQa1XD6immtUy+Uj9o9XUdpQ/VUubQhJRUSZ5uSi/tVcIaKa
+qzw6jitH7O+DtWK4I5mz55LnbBt20rvhyJVJtrdayMEj+YD2Gu+NjzuNleJWmZn51I3ru2rH
+sRd314yNslO1illNHVgpbKQFu7s49JNlvc9f9JMh/DpRRMQrCds1dGnJR+y2NbBT7LgW6tIp
+Vq5x8XkOf2/kTndiEyxNrQQrzG5gQYhsgv9wW43rInEMfbpqWwcZ76pIbkOsEvTVkoH2w0g9
+K/dglX9cZSlHmFwfca9xo3XOXsab/uTZ5HslgWVJFvEOmJNH8UxXbWhjpdVUeyJTvu5hfmkr
+axnGyfUxhrP8L/NITCOLa3gehNIMMQi8Uawa1CdE1Ps7PMfa6vdqf1v29XX3j7L86RQ8UHYe
+9yCB0izKfMpl3WQeYa1wUnzmhrAO0V5DmGzqEcqO8QwCq0KeoVri8zi/FZl4/tZr5EeArcwX
+Zd8mrj2kQk1wHrBGzfaqULEcrMowQ4wCT8VyMERY/xg5aJEzr3MX7puFTpJl424VLcbdyaqO
+e0yDIpNlUB3TyLM/zmNx8CMVy+lQo/stX+zOvvPtD2OBux/CKs8ZyxgXwS/wIP8bKI35ONbM
+oz7PMllW5d2/gdXCmfAL3zRMhF8tNs7x38DT1H0XuJlQgwb0otQU84tM7gHGqVbXA81t30aL
+439QSwECFwsUAAAACACkoqFQ8hDsNCwDAAA0DQAABwAJAAAAAAAAAAAAAIAAAAAAc3RyLmRh
+dFVUBQAHzoSsXlBLBQYAAAAAAQABAD4AAABiAwAAAAA=</Image>
+				<AppliesTo>
+					<Apply type="Class">
+						<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
+						<Property name="_tagGroups" value="Shape Options"/>
+						<Property name="isActive" value=""/>
+					</Apply>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="MessageStyle" type="enumeration" description="" unit="" values="First Message,Second Message,Third Message" default="First Message"/>
+				</TaggedValues>
+			</Stereotype>
 			<Stereotype name="Message Request Response" metatype="Message" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
-				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAMRYnFCBgHiMggIAALAIAAAHABEAc3RyLmRhdFVUDQAHKg6oXioOqF4qDqhe
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAFx8oVCBgHiMggIAALAIAAAHABEAc3RyLmRhdFVUDQAHlkGsXpZBrF6WQaxe
 rVVdb9MwFL2vReI/WN1LJyHB1rXrhPYwxoAHvtRO4hGVJWsrsnQ0YQwm/jvn3JvEcWjTCqHI
 dmwfX5977rWdyVymciuxOLnB30JSeSyP0HvQtoP5zxhPMDPDnJNTlK6cy4W8l0vUY/SeF9i7
 AHu6AZfKUjLdN8LfD+ByWcl3cLB5V3zXsHOP0UjOgCfHKyDHWJdjZllxKVd7Hi/Ru5YJUL/w
@@ -707,8 +737,8 @@ zXzezRqzYTdrJzXM78Dqv2ULz9gS+zAnwnwxq5ti5KMTxuj/Z1fJg9m1Ui6MN09sXa1Q0WPl
 zrmZk0PNt7rnoU+GoIpNn9bFItRwV3Walo62cDLE35xY7LSwWK5RlVTX8uayu8NV9rItOm7K
 /3W87Q6s3/FN3oYIc2hbtvrdrPb+2Ttr73uCvy/C94czDwXWzugHeMJXm/vwrpjoveDzwu7b
 8mU21SLhK2vMnGahtTFe7Vz4flMfPxPu3wEr7pliPil23UM71XtqT28g865+t/0BUEsBAhcL
-FAAAAAgAxFicUIGAeIyCAgAAsAgAAAcACQAAAAAAAAAAAACAAAAAAHN0ci5kYXRVVAUAByoO
-qF5QSwUGAAAAAAEAAQA+AAAAuAIAAAAA</Image>
+FAAAAAgAXHyhUIGAeIyCAgAAsAgAAAcACQAAAAAAAAAAAACAAAAAAHN0ci5kYXRVVAUAB5ZB
+rF5QSwUGAAAAAAEAAQA+AAAAuAIAAAAA</Image>
 				<AppliesTo>
 					<Apply type="Class">
 						<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
@@ -887,7 +917,7 @@ AIAAAAAAc3RyLmRhdFVUBQAHPFeoXlBLBQYAAAAAAQABAD4AAAAqAgAAAAA=</Image>
 				</AppliesTo>
 			</Stereotype>
 			<Stereotype name="Return Address" metatype="Return Address" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
-				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAARunVBh+hknqgIAAKAKAAAHABEAc3RyLmRhdFVUDQAHooWpXqKFqV6ihale
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIABZ2oVBh+hknqgIAAKAKAAAHABEAc3RyLmRhdFVUDQAHqzasXqs2rF6rNqxe
 vVbfb9MwEL7XIvE/WOOlSEiwdV1ToT2wMeCBX2on8YhK03UTIa3abCAm/ne+u7MTJ7GziAcU
 xU7sz5+/O9/Z3tM1LWhLKzL0A183lNNjeoS/e6kH6P+K9gw9a/QZOsV7QOd0QR/pEuUMfy8t
 9q6GPY3ictrQXmZO8fUTyIJ2dAsVijD2uQLTL7Sm9Ap4VrkEcoZxBXo2pRo3uppBy9dou6I5
@@ -900,8 +930,8 @@ v0c09bocjkeVi2AfEZrF3y/DHM0dVZF7yeYdyq3EBu+oFc+/5PsFsCk812abE58BG/oOnnZ/
 panPTq+YN3ZnC+0i1W7SbY+iRlKyJRxhvj2hMQns5zEcj3qeHOOpxoTjd1yOiq9UG9HFVc+Z
 EFcd0c0Vz3XH5SP6r1Uzi/nk7NpZEvFrHRFW7rji+eO4fEQ3V3x1HJeP2In9t6hz2xZ6ec4/
 5Z/eqvQ+l+HrG/E9g3vuLVrP7U9g5Vsaaxji3jTHq6ejrqkRtNu/dXdLiW9TqtrIWmi9wh2t
-IL6tcZZUPfX5B1DFc+boz+ysT1AvcOKu8HVQWq7WqCf/AlBLAQIXCxQAAAAIAARunVBh+hkn
-qgIAAKAKAAAHAAkAAAAAAAAAAAAAgAAAAABzdHIuZGF0VVQFAAeihaleUEsFBgAAAAABAAEA
+IL6tcZZUPfX5B1DFc+boz+ysT1AvcOKu8HVQWq7WqCf/AlBLAQIXCxQAAAAIABZ2oVBh+hkn
+qgIAAKAKAAAHAAkAAAAAAAAAAAAAgAAAAABzdHIuZGF0VVQFAAerNqxeUEsFBgAAAAABAAEA
 PgAAAOACAAAAAA==</Image>
 				<AppliesTo>
 					<Apply type="Class">
