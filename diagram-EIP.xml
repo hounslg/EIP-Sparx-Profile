@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<UMLProfile profiletype="uml2">
+	<Documentation id="D5D80DDF-1" name="EIP" version="1.0" notes="EIP"/>
+	<Content>
+		<Stereotypes>
+			<Stereotype name="EIP Design" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="Diagram_Logical">
+						<Property name="pdata" value="HideParents=1;"/>
+						<Property name="styleex" value="HideConnStereotype=1;"/>
+						<Property name="alias" value="eipDesign"/>
+						<Property name="diagramID" value="eip"/>
+						<Property name="toolbox" value="EIP"/>
+					</Apply>
+				</AppliesTo>
+			</Stereotype>
+		</Stereotypes>
+		<TaggedValueTypes/>
+		<ViewDefinitions/>
+		<Metamodel/>
+	</Content>
+</UMLProfile>

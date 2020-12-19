@@ -1,0 +1,44 @@
+	
+	
+Top Left to Right Hatching
+
+	MoveTo(60,52);
+	LineTo(72,40);
+	
+	MoveTo(60,60);
+	LineTo(80,40);
+	
+	MoveTo(68,60);
+	LineTo(80,49);
+	
+Top Right to Left Hatching
+
+	MoveTo(60,52);
+	LineTo(68,60);
+	
+	MoveTo(60,40);
+	LineTo(80,60);
+	
+	MoveTo(80,49);
+	LineTo(72,40);
+	
+	
+Bottom Left to Right Hatching
+	MoveTo(60,87);
+	LineTo(72,75);
+	
+	MoveTo(60,95);
+	LineTo(80,75);
+
+	MoveTo(68,95);
+	LineTo(80,83);
+	
+Bottom Right to Left Hatching
+	MoveTo(60,83);
+	LineTo(71,95);
+	
+	MoveTo(60,75);
+	LineTo(80,95);
+
+	MoveTo(80,86);
+	LineTo(68,75);
