@@ -1,30 +1,31 @@
 <?xml version="1.0" encoding="windows-1252"?>
-<MDG.Technology version="1.0"><Documentation id="EIP_CORE" name="EIP" version="0.1" notes="Initial version"/><UMLProfiles><UMLProfile profiletype="uml2">
+<MDG.Technology version="1.0"><Documentation id="EIP_Core" name="EIP" version="0.1" notes="Test"/><UMLProfiles><UMLProfile profiletype="uml2">
 			<Documentation id="864EA301-B" name="EIP" version="1.0" notes="EIP"/>
 			<Content>
 				<Stereotypes>
-					<Stereotype name="Aggregated Message" metatype="Aggregated Message" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
-						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAKJ2oVAm8/SBowIAAJYLAAAHABEAc3RyLmRhdFVUDQAH3TesXt03rF7dN6xe
-vVbLbhoxFL1bKvUfRnRDpUhtQoCgKosmjdpFHxFEyrIiQEhUOiCgadQo/95zfO15eOyBplU1
-sj2Mj4/PfRmv5UZGspSpJPIdb7eSynN5hl8PZmxg/iu+zzEzw1wix2hNOZUz+SwX6Af49cZi
-70rY4ygulYWszc4TvP0EciMr+QEVikjscw2me3ydyFvgqXIM5ADrNphZZGrc6nwH7d/h27UM
-gf2Ft5Z05LXsmf6lRSpuiNmNnKNP5RLoCX7dAL+f4RrYnxgqmuMZY/c52sqg+nIA3vLIlYm8
-wpMAM8D392gn+K58U8NzC6vI3MKKI6ONrY2+XVEZV3CANVzpxn2s7WxVMLD+HMHqGbiooms8
-xL33oMf3lvPr/1PSkV6mpIfHV1KN32lADVf3PX9SzQlwGzwL5H4iH0xejRF5VsHMcn/C7B2Y
-LzA6VV1rkyI+GrxD9GBzWGuIifbFmKpWh3gU1cUY4+FceaecK+Y5cjKPY54j8zLiM1e9IXsP
-bWWEdPZM9RTzvt5zRVzIc7swqWe2MxW9W/TDFVD3sLVt5/59bdRVx5HhUY05m1tXF1s21RFb
-ET4HHXJbDhDj+1q1lnf0M7Xsl2LkfL5e5oE4n2J25duuTzE+365+Y9M4Mxqp4WVc1WtJttfa
-8sbil1dltTZ9qw5t/sYzXBH9kkV+VKqI0C7s6znKiBBHt+Y8dGevf7IWG+uPlbJCvzR5yTjk
-+D/1aV31hf4lXXadAT3BPiEFvK0s5BuYQvO7WBHXFP+/fKoitqeqqTuf/kYP22NBXX6HnePt
-Sni34sxD5k1G/QtYeTNlTrVwVxyiVpuiZ6FGLzF49/+ltToR3iE1DxOjRccpzv2N8I7KDMpn
-ygoa0MVdU8zP7b4vMI5w45jirZnZpfZo/H8DUEsBAhcLFAAAAAgAonahUCbz9IGjAgAAlgsA
-AAcACQAAAAAAAAAAAACAAAAAAHN0ci5kYXRVVAUAB903rF5QSwUGAAAAAAEAAQA+AAAA2QIA
-AAAA</Image>
+					<Stereotype name="Aggregated Message" metatype="Aggregated Message" notes="" cx="0" cy="0" bgcolor="11119017" fontcolor="-1" bordercolor="6908265" borderwidth="1" hideicon="0">
+						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAFpuklHwBfaRugIAAOoLAAAHABEAc3RyLmRhdFVUDQAHlbPcX5Wz3F+Vs9xf
+vVZNTxsxEJ1rKvU/WOklSEgthGSJEIdCKT1QqBKqHquQDQF1u4mSLUUg/nvfeOz98NqblFZo
+ZXuz8/z8ZsbjeEU3NKYFTUnRT7zdUkqv6RV+PeqxBft3fE9gmcGm6BCtTcd0Qud0iX6IXwcG
+e1fBHgZxKc1ppVeO8fYbyIyW9AsqBKHMcw2me3yN6T3wrHIC5BDzMljmuRo7u1hB+g/4dk0j
+YB/w1qEevaNt3W8ZpOBGsGb0BX1K34CO8esG+J0c16K3eFYax6oSPBMoSNCWGjmgXXBXR56t
+9EwFzBDfT9GO8F04FVqY81RbvmrEkj4axHEJseX4MdWIW0SK53SgYF/7y62LvlvzPLz6Lubw
+TDvuYG5vrUdDk6MxIjkDF6vo66jz2tvQ42bA5urllPQoypVEeFwl9T1RjrlVwbMHTjxZzRFw
+GZ456knRJ71XJ9hNXFkzw/0Z1jswX2K0qvrGJ0GcabxFRPDZr9XHxP6FmOpe+3gE1ccY4mFb
+daWCKxQ55uS6CEWOmReBmNkTwefvnqk0n85IV2N53zdHrozzRW4TJonMeqZydMtxuALqHr52
+je3/10ZTdexrHtFYsNl5TbnlJjpCM/xnq0Wu2wOMcWMtWqsruju1Gpdy5ly+KI9AmE8wm/Kt
+1ycYl2/TuHGTPHM2Us3LeZWoqXytleEN5a+oynptul7tmf0b3uGCGFQ8crNSR/hW4b6Zo4rw
+cfQbzkN79rona7lx/XGlLNEv9L7kPBT4v41pU/X5/iXt7joBOsY6PgV8A5rTDzD57Jt4EdYU
+/r98riJuz1XTdD79ix5uTyV1xb04wdsV8d2KLY95NDnrF2Dl2y7vqQ7unyPUapvkLJTsKY23
+/19SqzHxvVT2odJaZJzi3M+I7728gwpLVUELunjVFPbErPsG4xg3jine2rlf4o/k/w9QSwEC
+FwsUAAAACABabpJR8AX2kboCAADqCwAABwAJAAAAAAAAAAAAAIAAAAAAc3RyLmRhdFVUBQAH
+lbPcX1BLBQYAAAAAAQABAD4AAADwAgAAAAA=</Image>
 						<AppliesTo>
 							<Apply type="Class">
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
@@ -43,10 +44,11 @@ UEsFBgAAAAABAAEAPgAAAHIBAAAAAA==</Image>
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
-					<Stereotype name="Channel Adapter" metatype="Channel Adapter" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+					<Stereotype name="Channel Adapter" metatype="Channel Adapter" notes="" cx="0" cy="0" bgcolor="11119017" fontcolor="-1" bordercolor="6908265" borderwidth="1" hideicon="0">
 						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAFqAnFDXjDWQYQMAAEYXAAAHABEAc3RyLmRhdFVUDQAHhVOoXoVTqF6FU6he
 7Vjfb9MwEL7XIfE/RONlkypB1x9jQjxsQ4I3pnWC59J0tKLNUNOywrT/ne/ukjm24ybtoEMq
 imo7zue7891n320pjahP32lIEU0xGlNCz+kZ3Um7h7cb6gkmxugWqLf4zWlGC6x5k6HeYXwN
@@ -71,6 +73,7 @@ VVQFAAeFU6heUEsFBgAAAAABAAEAPgAAAJcDAAAAAA==</Image>
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 						<TaggedValues>
@@ -78,48 +81,50 @@ VVQFAAeFU6heUEsFBgAAAAABAAEAPgAAAJcDAAAAAA==</Image>
 							<Tag name="channelAdapterViewType" type="enumeration" description="" unit="" values="simple,complex" default="complex"/>
 						</TaggedValues>
 					</Stereotype>
-					<Stereotype name="Channel Datatype" metatype="Channel Datatype" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
-						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAFxEmFDeAQqkbwIAAIAKAAAHABEAc3RyLmRhdFVUDQAHpqSiXqakol6mpKJe
-vVZNT9tAEH1XKvEfrPQCEgJCCDSqekC0qnqoWkGlHlGIDUQ1IXLSUhT1v/NmxpvdTfwBFa2s
-9Y69783Mzsdq97CHBJ/xHh85f0OGEW4wwR1yjms88O8VpYLzB3zCV2ziFTnCsu8LcoeY63jA
-lBpOqWFIHRPKeYC/12cXl9Qn4xfHLjE/FSNjpkzRkeCW0pg65P9C3xvql2FSSvd4R5sF+Rne
-logrcn7zO8UJkaJpRMyZejcmJyEnQWfJ65RMY5/zz5x7ymjpO/Epv26whQNsLy3MdK8F31PV
-Kut+1d63uruM8bzjahf72EEP/QB3Qg2jcr1fru4QKe+jUnYsJ8t/ryHX6Ii/omNQgQhtvAms
-DAIrnufkej+bdRyu6PsbHXV+mB7JSloZ9ZnGQXKf8xmV1Vto7AfMnkQwnD3TcaReU81tQeYP
-6quy02btgD7LDuLZ86UfJG9T1SF4H7meys34wwDffwL+KMAfr+H/LGNb1XcX6p1UZFelviIX
-paX2TnTRquup3gv0VLz71Z6yHFhPWd15lpPlf3NPxYj1WjZtVsv2x/OcXO9ns46wH17aD9NT
-11MuL3WV/i/6KqyU02fYMi/XK6z7xAqL68tyf6xRk/51qKR84hpx59l+C870xWdrcwb+d/Tr
-olgX6edkKI7tesxWO896NkY0eyDVbWPV26r4tZ3TZ7B7g8Tvmix/VltH2lktOW3m2HltHDuv
-2zl2ZhvHzuyQU31mS6Yv4W5bi2j/X7jjMbVLfLd43znnCGOVKNpVrd3UUjIlbpKRROvA5ox3
-qzn8jdCtxPY36JXYnHA9L62+5jxkHWSUOsFuHgFQSwECFwsUAAAACABcRJhQ3gEKpG8CAACA
-CgAABwAJAAAAAAAAAAAAAIAAAAAAc3RyLmRhdFVUBQAHpqSiXlBLBQYAAAAAAQABAD4AAACl
-AgAAAAA=</Image>
+					<Stereotype name="Channel Datatype" metatype="Channel Datatype" notes="" cx="0" cy="0" bgcolor="11119017" fontcolor="-1" bordercolor="6908265" borderwidth="1" hideicon="0">
+						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIALJsklEBM95yhgIAAMwKAAAHABEAc3RyLmRhdFVUDQAHpbDcX6Ww3F+lsNxf
+vVZNT+MwEJ0rK+1/iLoXkBBQSoEKcUAsizigXfGhPaLSBKg2lCotC6jiv/Nmxq7tNk6gQihy
+PInfmxnPh+V1WqeETuknHWO+oIx6dEcDeqAc45Ze8PcGUoH5iE7oD32nb+AwS7+vwO3SWMYL
+DaHhEBq60DGAnHv4J3nW6Br6ePzHWAPmUTA8RsJkHQndQ+pDB/+fyHtJ/FJMCumJ9mGzAD+j
+PYO4AecZ3ykdAMmaesCciXd9cBJwEmpMeQ3DVPY5/oyxpwyW/gKf4uuOlmmTVqYWRrLXAu+h
+aOV1t6rve9ldhng+YLVJG7RKLWp7uANo6Jn1tlldBZLf20a2LCvzf6chl+iwv6yjU4Lwbex6
+VjqeFcezctzPah1bM/oW0RHzQ/VwVtLSqHN9jSQWnP8cT89UcCHx7yCDHEV/9jMaYx7LyqUg
+CvplEIceYsXTYzVw7adSJwVQ/8At87nO9ib2z9EIZ8fn3uIaGIoOxrsstESuxm95+PY78Nse
+fmcO/zrNU1kPX4l3XN1NkdqCnBhL9V1toxXrz1aQzcX6M9z9bH9qDrQ/tYYdy8r8v7o/Q8R8
+X6g27Qv943hWjvtZrcPvrc/2Q/XE+tPmJVbpdf25SF/5leL3a50t9XK+wprvrLCwvjT3OxI1
+7l+LSswT1og9GzdqcKovPKerM/DV0Y9FMRbpj2QojO18zGY7T3s2RFR7wNWtY9bbsvjVndNn
+pHcQjt8tWO6s1o7Us5pzWs3R81o5el7Xc/TMVo6e2T6n/MzmTF+TvblNgv3/xo770M7xXcbd
+6RzDj1UiaFu1eutLweS4cUYSqQOdM9zTxuRul3YltL8Er9jmAOu5sfoDcxd1kEFqeLt5A1BL
+AQIXCxQAAAAIALJsklEBM95yhgIAAMwKAAAHAAkAAAAAAAAAAAAAgAAAAABzdHIuZGF0VVQF
+AAelsNxfUEsFBgAAAAABAAEAPgAAALwCAAAAAA==</Image>
 						<AppliesTo>
 							<Apply type="Class">
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
-					<Stereotype name="Channel Message" metatype="Channel Message" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+					<Stereotype name="Channel Message" metatype="Channel Message" notes="" cx="0" cy="0" bgcolor="11119017" fontcolor="-1" bordercolor="6908265" borderwidth="1" hideicon="0">
 						<stereotypedrelationships>
 							<stereotypedrelationship stereotype=" EIP::EIP_Association" constraint="EIP::Invalid Message"/>
 						</stereotypedrelationships>
-						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAFhEmFCA1k7YNAEAAE4DAAAHABEAc3RyLmRhdFVUDQAHlKSiXpSkol6UpKJe
-nVLbTsMwDD2vRdo/ROWlSJMYl01UiAe+ACSQeA5rYdOygrpykRD/zrGTrGEXHlBU243tcxzb
-AxxghRksXlHDYElrjgYD3n+pzPj3EmIqWh+4QocWb4y/DBFZ0He863BL2eCBOBX/ZihwiqN1
-7Ip3lvkdGW3w914vl+R5J8o9dYETjDDEGcZJ3DURpsE/Dt4hI0VOgh2zoi33PYLTd0q9glHu
-iEg5LhKWMmHp86K9v86/Mc438P6Dsa8OjyNTqXZ0Pc5FevHErjieKdkcv1b7X3KC0sVU9/XF
-HKv4Mt+WmQvibXN9rxnTrZPcR1pOPXHvfEU3RJvjWadVIOeO5axBXjhSVKPRJpxjHsMqaq1K
-5mu0Aq9rfFIa+uRlvec3f8aqhLOh3wXWQ2rLvaxp5Ruv8Vsr3w9QSwECFwsUAAAACABYRJhQ
-gNZO2DQBAABOAwAABwAJAAAAAAAAAAAAAIAAAAAAc3RyLmRhdFVUBQAHlKSiXlBLBQYAAAAA
-AQABAD4AAABqAQAAAAA=</Image>
+						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAOZsklGuU9aBSgEAAJoDAAAHABEAc3RyLmRhdFVUDQAHF7HcXxex3F8Xsdxf
+nVNNS8NAEH3XCP0PS7ykULB+tBjEgwh6VFDxvDapLaZRkvgB4n/3zeymWWvjQZbdney8efN2
+djLADmosYPGCHAYrWkuUGPD8U9eIX88ek9F6xykaVHgl/sQjIr/f8KzBNdcS9+TJ+LVAggMM
+19iaZ5bxDTNa7++8bl0xzxtZbrkn2McYIxxiEuDOyDDz/on3joiUdertNqq15bxjKPSeolc4
+0i2IMMdxkCUNsnRxrd2v82+Oow2+/3D06XA88irZlqo77x5HrfWYszIFx4wZC85K3yDlK0ol
+wz181b7IS/XcKaLChUecB4hhwNMyWNUqvVIR9cTY37q/1urDDpbYB1qFetoedvquyLbEo758
+gpj9GvMuUq2xshpFGz+kIoYqclUlvWJUgdtzfHA19MktOs/P/BFVSc6S/sJn3eVu2eM5rXjj
+Nu4PkPkNUEsBAhcLFAAAAAgA5mySUa5T1oFKAQAAmgMAAAcACQAAAAAAAAAAAACAAAAAAHN0
+ci5kYXRVVAUABxex3F9QSwUGAAAAAAEAAQA+AAAAgAEAAAAA</Image>
 						<AppliesTo>
 							<Apply type="Class">
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
@@ -144,30 +149,33 @@ gAAAAABzdHIuZGF0VVQFAAf5mKVeUEsFBgAAAAABAAEAPgAAAMsCAAAAAA==</Image>
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
-					<Stereotype name="Claim Check Message" metatype="Claim Check Message" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
-						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAMx1mlC8bge7iwIAAAYKAAAHABEAc3RyLmRhdFVUDQAHvp6lXr6epV6+nqVe
-rVZdbxMxENzXIPEfTuElSEiQhnCpUB+gVPDAl5JKPKKQpGlFuERJKIiq/52ZXft8tu6SSKlO
-tu/s2fV4du3zRq5lLCuZSSa/8HYjhTyWR/i607aF8e/oX2BkjrFMzlDaci4X8lkuUQ/x9dph
-byPsWQOukKVsdN4p3v4At5W1/AYHG8/ccwU/f9E7lTfAk+MEyCHsthhZlly8deDxDl9XMgLq
-H9460pcX8kzrpw5juBFGt/IVdSHfgJ7i6xr4bolrYWZiyGWBZ4J5FyhrRZ3KCfzGLS0zeY4n
-A2aI/vcob9Fv/mbq5wbroecOLAbKjaWHupewNCurd7E5gT29+LYLP/29bFroM13H0GAOb+T0
-SvV6qfVAa/YETWLlzissiKUObFl7m6y0JJdLoFfo+6CxnEBz5t28xHzC+C18E+fZ9J22HvNR
-bTwm1wiQccDs8pauJ/Zmaz7MG6N3mLfTxBuLRYYKFmrBSJgWWell42yaNA9qx5qbVczXYlrN
-sZRtiHoTwhSMEc1zVXddvad0X3oVm3O9C9+5ZhpVtbaX5Cczeq16Mce4q6vjF8kuNCa57pzc
-rc92T7AocD7Ue/McuYem8MgTaSk/4XlVi0/b5pWmu9ra41bKnZK7vKWKA6ddldFDrTaw3H/S
-7tLh+IjX7dscTxVTzU6el8yBQ1CmYvMZQJTNmKIeSucQuSalY7WOUbpeUTuB0/WlpzT19PkW
-80697dPUn6she1N+9Z4HB/C0uMc877VlsbuL3ZkYnR/CfzpH7hzW1P0CPXkToucObicjxKMN
-v2Rts9tf0d937F8wFd5djE2msbN2hrvQVngrYpzCSMygBV6ctcD4ws37BO0Yt7sZ3trlimw9
-ptJ/UEsBAhcLFAAAAAgAzHWaULxuB7uLAgAABgoAAAcACQAAAAAAAAAAAACAAAAAAHN0ci5k
-YXRVVAUAB76epV5QSwUGAAAAAAEAAQA+AAAAwQIAAAAA</Image>
+					<Stereotype name="Claim Check Message" metatype="Claim Check Message" notes="" cx="0" cy="0" bgcolor="11119017" fontcolor="-1" bordercolor="6908265" borderwidth="1" hideicon="0">
+						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIADZuklGI4VfsoAIAAFoKAAAHABEAc3RyLmRhdFVUDQAHh7PcX4ez3F+Hs9xf
+rVZNb9NAEJ1rkPgPVrikEhKkITgV6gFKKQe+lBRxRCFO04rgREkoFRX/nfdmdm3vyk4ipbJ2
+1955MzvzZna9a7mWsSxlKon8wtuN5PJYHuHrXscW5N8xP4dkBlkip2htOZNz+SSX6If4euWw
+twH2tAGXy0LWum6Gtz/AbWQlv+GDyRP3XMHOHWYzeQ08fZwAOYTeBpJF4YvXLv14i68rGQH1
+F28d6ctzear9kcMYbgTpRr6gz+Ub0Bm+roHvFriWPMOzVhz9meOZYO052kqRJ3IM2+FI7UQ1
+E2CGmL9Ae4N5s5mgNdu8UMlXRazknUOcVRBHURxTRdyAI+p04MFA42Xroe9FkZuW9ds8OYY+
+rfixCzv9ndG1MGe5GoPXGazRp5eagxfaD7TnTMlzmI1qtMSSV47svU5SaNKXS6CXmHuv9TFB
+HlnLswLzEfJb2CbOe9N3ufKYD6rjMalmlB6XmG3W4nhCaxbzftaYvf2snUTW2CwzZDBXDWbC
+uEgKK2un08R5yXbIuWmF/lpOqzUWe1tmvQlhDIaI5rWqO7neUrzXPYvNtd6F7VQrjaza2Ivq
+kxW9Ur5YYzwpqvLzaBeaJ6nunNTFZ7un1Mhx5tRb8z5yD2WwyFNuIT9heVmLj8fmSONdbeNh
+kXKnpK5uyeLAcVf16KGiLb3cfXpv4+HwjNft2xRPFVOtTp6XrIF9UMZi8xlAlK0Yox6K5zJz
+TUyHbB3CdD2jdgLH8cWnNPn09Rb6HVvbxak/V8vqjf2rtzzYw0/Le+jnPx3Z7D5k9zBm54fw
+n07JvcMau5/BJ29XtNzBjWeEfLRhl17b6vZX9Hco+xdkwvuQeZNo7myc4n61Ed60mKdSEnrQ
+gl9cNYd87tZ9gnGMG+MUb+0iIovHWPoPUEsBAhcLFAAAAAgANm6SUYjhV+ygAgAAWgoAAAcA
+CQAAAAAAAAAAAACAAAAAAHN0ci5kYXRVVAUAB4ez3F9QSwUGAAAAAAEAAQA+AAAA1gIAAAAA
+</Image>
 						<AppliesTo>
 							<Apply type="Class">
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
@@ -187,6 +195,7 @@ dHIuZGF0VVQFAAcgsqpeUEsFBgAAAAABAAEAPgAAALcBAAAAAA==</Image>
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 						<TaggedValues>
@@ -211,6 +220,7 @@ AAAA</Image>
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
@@ -231,6 +241,7 @@ ol5QSwUGAAAAAAEAAQA+AAAA4AEAAAAA</Image>
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
@@ -252,6 +263,7 @@ CQAAAAAAAAAAAACAAAAAAHN0ci5kYXRVVAUAB+byol5QSwUGAAAAAAEAAQA+AAAA/gEAAAAA
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
@@ -273,10 +285,11 @@ AAAAAAAAgAAAAABzdHIuZGF0VVQFAAc4tapeUEsFBgAAAAABAAEAPgAAAC8CAAAAAA==</Image>
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
-					<Stereotype name="Corrolation ID Message" metatype="Corrolation ID Message" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+					<Stereotype name="Corrolation ID Message" metatype="Corrolation ID Message" notes="" cx="0" cy="0" bgcolor="11119017" fontcolor="-1" bordercolor="6908265" borderwidth="1" hideicon="0">
 						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAMBUnVAeTqKvBgQAAEAUAAAHABEAc3RyLmRhdFVUDQAHCFmpXghZqV4IWale
 7VhZb9NAEJ7XIPEfrPYllTialOYA9aEtUJA4qiQI8YTSJk0i0oMkLS2o/51vZrxZew83SeEB
 CVnetb3fzn5zru0pDalLF9SnhE5xNaIzekgP6Je0SXoM6SvGxhgdYDyhHZxrtE+v6AN10LZw
@@ -304,6 +317,7 @@ ZGF0VVQFAAcIWaleUEsFBgAAAAABAAEAPgAAADwEAAAAAA==</Image>
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 						<TaggedValues>
@@ -313,23 +327,24 @@ ZGF0VVQFAAcIWaleUEsFBgAAAAABAAEAPgAAADwEAAAAAA==</Image>
 							<Tag name="messageType" type="enumeration" description="" unit="" values="request,response" default="request"/>
 						</TaggedValues>
 					</Stereotype>
-					<Stereotype name="Dead Letter Channel" metatype="Dead Letter Channel" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
-						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAHpEmFBIfXj7kwEAAGYEAAAHABEAc3RyLmRhdFVUDQAH4aSiXuGkol7hpKJe
-nVNdSwJBFD2vBv2HxV4MRM0ylOghKiIoFAp6DHXXlNZdWS2T6L937p2Z3dE0KIaZuTP3nnM/
-Zm4ddQS4xxVuuD8iwhBjJEgRc75gxdsRpYz7NW7Rwz72iBGUOT8T28eC847oBUdE60uy9MmT
-8BR7mKWOGgbklPnOWaPNm9rInCtyxrsAU0oTcsj9p64ljc3YhJSWOKfHjPgIZ9aiZPcHjafH
-NcETeUKexqigicPcdq6RZ1xnmoXoC61ZpxpnxOqk1B6hgSqO0fLsLsgwtPqW1VZpKeuplR3K
-yXJfMMSap8QrHJ0tFr6Ptuel43kpcE7eHefvHCcbfP/h2BWH4ZFXCbdU3b2L1GLEqsQcQ/sf
-M61/hy8oVfT3Ij6Hkd8X6vtmRL6S76evv/2UXRE1mZtkKnk2NvLoqd2KnZSSW36HWJm6tTV6
-kZqsj8N95WiZfjdIToO8n1w/mLi6jGRCL/KLKigzo/JaRIFaB3aYXgyJlHzk3wWasdkjfHAt
-+t5p1v2XGJX4TKiPrdcD7n32S0Sp7GX0DVBLAQIXCxQAAAAIAHpEmFBIfXj7kwEAAGYEAAAH
-AAkAAAAAAAAAAAAAgAAAAABzdHIuZGF0VVQFAAfhpKJeUEsFBgAAAAABAAEAPgAAAMkBAAAA
-AA==</Image>
+					<Stereotype name="Dead Letter Channel" metatype="Dead Letter Channel" notes="" cx="0" cy="0" bgcolor="11119017" fontcolor="-1" bordercolor="6908265" borderwidth="1" hideicon="0">
+						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAOZIklEmky7LpQEAALAEAAAHABEAc3RyLmRhdFVUDQAHV3HcX1dx3F9Xcdxf
+nVRdSwJBFD2vBv2HxV4URM2ylOghrCQoEip6DHXXlNZVVstE+u+de2fWHc0NimHuzM4999yP
+ubMVVODhDpdoc31EgD6GiDBByPmKJU8H3MVcr3CDDvaxRxuxMt8vtO1iznlL6zlHQHSLLF3y
+RPwKHZuFjjJ65JT5wVkm5l0xMmdqOeWZhzF3I3LI+UplTmMzGJ+7Bc7pMaZ9gDOLyNn1QePp
+UEZ4Jo/PryEKqKG4xs408phyqlmIPtUaOdY4A1ZnQu0hqijhCHUHd0GGvtXXrbZEpMgTu0+s
+kr2cpwyh5inxCkdzB8L10XC8NB0vqV2yz47zd47jLb7/cGTFYXjkVvwdVTda6ZaZ1mPAyoQc
+fduTsd5Bk7colXRX91azLNuqeVJEjGuLaDmIosOTMEgn+9orMVFvtP0Z99+6Liu+GuskVZOa
+Vbdq0lHckq9yQm7pNEGdqmzYWWOlE6uvta1M911JRj0kL3O1EdU94xjRh/RjAXnmk9+Ix1O0
+Z4d51T4tJRvpYE/zNWuAT8r0D5JoNv3nGJX4jKgPrdcDrl2+vIC7vJPRN1BLAQIXCxQAAAAI
+AOZIklEmky7LpQEAALAEAAAHAAkAAAAAAAAAAAAAgAAAAABzdHIuZGF0VVQFAAdXcdxfUEsF
+BgAAAAABAAEAPgAAANsBAAAAAA==</Image>
 						<AppliesTo>
 							<Apply type="Class">
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
@@ -350,11 +365,12 @@ VVQFAAcrtapeUEsFBgAAAAABAAEAPgAAAOcBAAAAAA==</Image>
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
 					<Stereotype name="EIP Association" metatype="EIP_Association" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
-						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAPpCnVCMIIawiwEAALgEAAAHABEAc3RyLmRhdFVUDQAHgTmpXoE5qV6BOale
+						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIACJckVGMIIawiwEAALgEAAAHABEAc3RyLmRhdFVUDQAH/UHbX/1B21/9Qdtf
 rVJdS8NAEJzXCv6H0KcWar9EfRAf/CyCQkHFR0lzV1tsG0lTi0j/u7N7SZqSBgLKcbm7zczc
 7ux10IGHR9xgwPUZFgEmWCDEjPMd34yOuYu43uIeQxzigBxhufMbLrHkCMmcwkfMb0iFLW6t
 o40R4zK/ONu8aaUYmUve6eOTMQ9z7qYJX+ZPTskwD59aHr9y8pVpufOYr7CsomtagVM13K1x
@@ -362,13 +378,35 @@ wbwi3mhxniDc94mRmFVYMl6pYHiaoIE+mhkyj7lOnImI6eEYXbS49nGWrSnPcedar/BDZbTI
 2EWkeaeIrmpuUWmmE83OEu/TRVkbqLNzEjU8WVxRIVadOR4yVD1T2uz1Wzq3Yj1B4p3zez82
 5i7iq5Bst9hibxb6jTjEe+mQ9EFisapIZFfNU3dNzhfhCkLmSOvz2EVh7fbRdWdMH2YcQeX+
 lPe+V4Kp3vsaXXPVxXROahDdv76ME2JOK2COCijnbTGT9G1JB8t9HOifF9Zkeb5LEHk3mv/g
-WHqzvB6j/skL+KBOMe8NfgFQSwECFwsUAAAACAD6Qp1QjCCGsIsBAAC4BAAABwAJAAAAAAAA
-AAAAAIAAAAAAc3RyLmRhdFVUBQAHgTmpXlBLBQYAAAAAAQABAD4AAADBAQAAAAA=</Image>
+WHqzvB6j/skL+KBOMe8NfgFQSwECFwsUAAAACAAiXJFRjCCGsIsBAAC4BAAABwAJAAAAAAAA
+AAAAAIAAAAAAc3RyLmRhdFVUBQAH/UHbX1BLBQYAAAAAAQABAD4AAADBAQAAAAA=</Image>
 						<AppliesTo>
 							<Apply type="Association">
 								<Property name="_lineStyle" value="orthogonalR"/>
 								<Property name="_MeaningForwards" value="Flows To"/>
 								<Property name="direction" value="Source -&gt; Destination"/>
+								<Property name="_MeaningBackwards" value="Flows From"/>
+							</Apply>
+						</AppliesTo>
+					</Stereotype>
+					<Stereotype name="EIP Async Assocation" metatype="EIP_Async_Assoc" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAERckVGRY/bplwEAAOwEAAAHABEAc3RyLmRhdFVUDQAHKkLbXypC218qQttf
+rVJdS8NAEJzXCv6H4JOF2k/UB/HBzyJYKFTxUdLmaopNI2lqKdL/7uzm8kVaKCjh7vYuM3u7
+M9dCCw4GuEef6wsMJvCxQIg5xwc2PJ0yirg+4AlDHOOIHGEl+3fcYMkvJHMGFzHnkBly3Fq/
+JsY8l/HN0eRNK8XIWPJOF188cxAwmlm+jJ9CJo91uMzlcJadq0zDyGG9wjKKrmkHSVaP0RrX
+rCvijQZXFjFiHOPZskaMN8xhcIqTLLNwY+7rllVkDjkv8Ea+x51PXjfDlTF3Vs2ImA56aKPB
+tYvLbC3nD1Qj4YfKaJBRRqS9poi25sxRNTv7Wp0h3qXyskp3Az31tNtb7VDyBNQiReUdb7Nb
+ix6J2yv2M7F6Jx7txsaMIr4kqTbHVv1c6BzxE7/EVfFOzmLNIiflbI6q6xV0Ea4gZIy1P4fO
+C2uX91PqMOc3Odif/d539mAO975G1ZLuYionPUjev76Mc2IuDsCcVVCJttVK0rclDu7Xsa9/
+XtmT4f7RIopq1P9BsfRmeT2e6icv4JN5qnVv8QtQSwECFwsUAAAACABEXJFRkWP26ZcBAADs
+BAAABwAJAAAAAAAAAAAAAIAAAAAAc3RyLmRhdFVUBQAHKkLbX1BLBQYAAAAAAQABAD4AAADN
+AQAAAAA=</Image>
+						<AppliesTo>
+							<Apply type="Association">
+								<Property name="_lineStyle" value="orthogonalR"/>
+								<Property name="_MeaningForwards" value="Flows To"/>
+								<Property name="direction" value="Source -&gt; Destination"/>
+								<Property name="_MeaningBackwards" value="Flows From"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
@@ -399,6 +437,7 @@ AAAAc3RyLmRhdFVUBQAHI0OoXlBLBQYAAAAAAQABAD4AAAANBAAAAAA=</Image>
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 						<TaggedValues>
@@ -426,10 +465,11 @@ AAAAAQABAD4AAAAPAgAAAAA=</Image>
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
-					<Stereotype name="Generic Messages" metatype="Message Generic" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+					<Stereotype name="Generic Messages" metatype="Message Generic" notes="" cx="0" cy="0" bgcolor="11119017" fontcolor="-1" bordercolor="6908265" borderwidth="1" hideicon="0">
 						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAHJVnFBj2LbqpgMAAFQbAAAHABEAc3RyLmRhdFVUDQAH3QioXt0IqF7dCKhe
 7Vlbb9MwFD6vQeI/ROWlk5BgW1s6oT2MrYwHLlM7aY+orNla0RtrGRMT/53vnBPXieM07RoJ
 ClNkO4k/H5/Ld1w7nVGfujSliEIa4W5AY3pKT/B0L22A/s94P0TPNfpCOkSp0DG16COdo27j
@@ -455,33 +495,35 @@ AAAAgAAAAABzdHIuZGF0VVQFAAfdCKheUEsFBgAAAAABAAEAPgAAANwDAAAAAA==</Image>
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 						<TaggedValues>
 							<Tag name="messageShape" type="enumeration" description="" unit="" values="RoundRedStraight,RoundGreenStraight,RoundGreenDiag,RoundRedDiag,SquareGreenDiag,SquareRedDiag,DiamondRedStraight,DiamondGreenStraight" default="SquareGreenDiag"/>
 						</TaggedValues>
 					</Stereotype>
-					<Stereotype name="Guaranteed Delivery" metatype="Guaranteed Delivery" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
-						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIABRMnFDaeVsrbgIAAB4LAAAHABEAc3RyLmRhdFVUDQAHSvinXkr4p15K+Kde
-3VZRSxtBEJ7XCP0PR3yxENSoaQ3ig1gphUpLLfRRYu7UYDRyObUl+N/9ZmY3u5PbxCoiKMfe
-7u3OfDPzze7crtEaZXRIX+gr+t9UUJ/O6YpGNEQ7o3+YPcWoRH9A3+gnfaAl6LCWfh9D84Z6
-kOhBrwJCQTnwCiAM6BZ9CZSgdSfPKp0Aldst2iqkbkSG2xge9OgacxldYjQALs9P5N0Q71Qm
-x+iOdmG1hH5BO07iFDp/xY89SDJSHzK/oFFhZQTcXbTmVK851Wy4/gizFaIrYO0PdHJ8ndMK
-bdDHqewYcxx3BQuMzOthVd+XEmEBZkdYbdM6tWiTOpHcHhD6br3jVluQ5PcnN/ZafszzAYF5
-vhJ/GaObkIhtbEdWupGVoOfH8/1cjLE1g/ccjHl+KA5nJU+yPhYeOP9DPH23j0vhvovsMYNx
-HzS9Du/iXHJbQvMCeCk7L7VPUrtkS6L+bJj7bnKsEsxamlu/rkzym/eN5sZr+hWLYu2ohPVk
-Hvevy/9j1jbgM8do+6B/IBoDYDNG4Dwwto33rL042/tPiE39rO+S9n/ukvspw6naeAxb61Ix
-2jLqiOTE4b6FaqkS9hRoZeiYLNjdqRJcR9KnYBOZ1N0b6kmoOVp/dN5izJ6Buh/v8wwoL1q9
-fdSxfD3Xr3kG7B7R3GhuOS4vlbnH/hP9vybkMC2nePa/tzjji/h/jJHnZ7vO4jymn5Ihy22d
-s9mbht5RYol0neIIT4jvg7wyMV7+gGcD3DMZdwWV5QitJfVXUTOTLb1B5tBk7tiTTOLXvkAV
-qyjcV/2Ktd+AV2yT76pDZ3UZfQ/xFxg1o2geAFBLAQIXCxQAAAAIABRMnFDaeVsrbgIAAB4L
-AAAHAAkAAAAAAAAAAAAAgAAAAABzdHIuZGF0VVQFAAdK+KdeUEsFBgAAAAABAAEAPgAAAKQC
-AAAAAA==</Image>
+					<Stereotype name="Guaranteed Delivery" metatype="Guaranteed Delivery" notes="" cx="0" cy="0" bgcolor="11119017" fontcolor="-1" bordercolor="6908265" borderwidth="1" hideicon="0">
+						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIANRsklHIKAlniwIAALYLAAAHABEAc3RyLmRhdFVUDQAH8rDcX/Kw3F/ysNxf
+1VZRTxNBEJ7XmvgfLvUFkgYoUKUxPBBFYqKBiMZHUnqHNBZqrgdIGv+738zsdnd6ey0SoyGX
+vd3b/eab2ZnZud2kTcroI72lI/SfqaAhXdI1TWiM9o3uMXuBUYn+kN7TCT2nZ5BhKf0+g+QN
+DYAYQK4CQ0E5+AowjOgWfQmWIHUnzwadg5XbLdoGUDeC4TaFBQP6gbmMrjAagZfnZ/JuiXWK
+yTG6o31oLSFf0GuHuIDMT7HjAEhmGgLzCRIVVibg3Udrz+Xac8mW608xW2F3BbR9hUyOr0ta
+o21an2OnmON9V9DAzLweVvV9JTss4NkJVru0RR3aoV6EOwDD0K333GoHSH6/dGMv5cc8HxjY
+z9diL3P0E4hYx16kpR9pCXJ+3Gznco7dBb7HcDTZoTwclTzpdc6xqfiCc2CMZ+hyuRT/9xFB
+9mLcxxFtkjySlS+CKOmdQ7yJEOsRj2fgE5FLnpRAfYdsyua/lXOpjNsVD74yUfhg8kURHIF0
+nPy6RoXfnIMaZy/pVyyL1aMIa0lTHJ9uLFfp3sb+2V+2D/KHIjECN3OE+AXv7+G9qC/OnHgf
+D/NRPeO6D8y4X/NopWr2GXRtSSXryqgnyJnjfQpVXBH2RGnF6pko2ExXBNe39InaQST1JIQ6
+F2qh1kWdtxyL56lux/Lz1JyVq/Lk/54B9Yv+VfyuY3w91v/yDNgc0dhobHlfHpW5x/6r/T8w
+xDCNUz77P14e8WX+X+WRx0e77sUmT/9JhKxv6z5bvAHp3SlGpOsU7/Cc+J7KKzNj5TEsG+H+
+y7xrqCynaB2pv8qamWjpzTaHJPuOLclk/9oXqGIVhXu0X7H6W7CKdfIdeuy0vkA/wP4LjNrR
+bn4DUEsBAhcLFAAAAAgA1GySUcgoCWeLAgAAtgsAAAcACQAAAAAAAAAAAACAAAAAAHN0ci5k
+YXRVVAUAB/Kw3F9QSwUGAAAAAAEAAQA+AAAAwQIAAAAA</Image>
 						<AppliesTo>
 							<Apply type="Class">
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
@@ -491,53 +533,56 @@ AAAAAA==</Image>
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
-					<Stereotype name="Invalid Message" metatype="Invalid Message Channel" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
-						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAGJEmFDr3a3TeQIAACwLAAAHABEAc3RyLmRhdFVUDQAHxaSiXsWkol7FpKJe
-zVbBTttAEH3XVOo/WOmFSggSiGkixAEBqnqoWpVKPSITO2A1JFViSNuo/943s954F7yGBFVF
-1nrXu2/e7LwZr72LXUT4iFO8Z/8VGYa4xgRTjNmu8IuzI45m7M/wAZ/xGq9oI1bm+YL3Ce6Q
-0CJHSq4Mc14JrTOckC3h+oTjsWO70GsHl+SWdse2Q8ytYqTN1fIH5yLccJSTQ+aXem/pHg0m
-5WiBIxTc5S3xhyViRJuffE5xTKQwDYn5QouCK1PyHrG1V3btlWWr7M85WzDGjN6+aXQFPW5h
-D29X2DnnEjIU9CDMsl6tmvuNRphR3ylXu+hgG/uIHdwxGYblelyubhMp94NybK3sWOYrBlFf
-VC6UY1CDcH30HS8Dx0tlZ8fhfTZz9O7xbcIR2ofhkayktarPVQfJ/5jXsKzmmWo/YPZEQbev
-LK2N1GyquZ3R8jv5HvpZp0ZC+9ljVBKj7TtPriy/pmLV6J1n71fEgSJE4xCiV4MIa/ycyNZR
-+c9K67oT4YL8HX1PujqKFbks/fy7M8JYv6Tcyz2UWakL8x6FEPs1iP+f+8pTkxqhLHSDivV4
-7sjpEtYj1tOhGSGK9Z+oWFgrYTHteRrJd/WUiBH1yPGbI/OlEW7TVxZnyp6TTfZl9eizCqSO
-JPI+a6bOg5zdspdFjfYnTlSPnbNGj+acNWXdz6qtcltzFhWVl585+82pFKnHGT7/+7d5nh9T
-ZJOch1QMKb1OhnxtH2p2/30w/youov7klggvYf8Gl94uP3FnOf8bhXeLZ+05m/t2RF62zJ9k
-Cql5s5NI4zd9xnO9QPX3ald8/y3uSnxOuD4uvb5hnzD+jKO2E81fUEsBAhcLFAAAAAgAYkSY
-UOvdrdN5AgAALAsAAAcACQAAAAAAAAAAAACAAAAAAHN0ci5kYXRVVAUAB8Wkol5QSwUGAAAA
-AAEAAQA+AAAArwIAAAAA</Image>
+					<Stereotype name="Invalid Message" metatype="Invalid Message Channel" notes="" cx="0" cy="0" bgcolor="11119017" fontcolor="-1" bordercolor="6908265" borderwidth="1" hideicon="0">
+						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAP5sklHxGOo6igIAAHgLAAAHABEAc3RyLmRhdFVUDQAHA7HcXwOx3F8Dsdxf
+zVbBTttAEH3XVOo/ROkFJAQJxDRRxQEBRT1URdCqR2Rip7UakioxpCXqv/fNrDfeBa+bBFWt
+rPWud9+8mX0zXnsPe2jiPU5xzv4jUgzwFWNMMGL7gp+cHXI0ZX+Gd7jAS7ygjViZ52vex7hH
+TIsMCblSzHjFtE5xQraY62OOR47tXK9d3JBb2j3bLjF3ipE2U8vvnGvilqOMHDK/0HtDYzSY
+hKM5jpAzyjvi3xSIIW1+8DnBMZHCNCDmkhY5VybkPWJrLe1aS8tG0V9xNuceU3r7rLvL6XEL
++9heYmeci8mQ04Mwy3q5au63usOU+k642kEbOzhA5OCOyTAo1qNidYdIuR8WY2tlxzJfMoj6
+onKuHP0KhOuj53jpO15KOzsOx1nP0X3EtwlHKA7DI1lJKlWXGpupFlIDI16DoqKnqn+fGRQV
+3d7NaMjyXFc+KWKKtwXixEFsOzyWQeo/0TqZEvWNtk9jXqfeQtHtUyHRy/btlavUr89I9X7t
+2fvVdagIyVcI0a1AhPP1nJ2to/KvpdZVp8s1+dv6znV0FClyUfj5e+eNsf6fci/3UGalLsw7
+GUIcVCD+fe5LT3VqhLLQCSrW5RkmJ1VYj0hPmXqEKNZbUbGwVsJi2vM0kvPzlIgh9cjwwJH5
+agm36UuLM2XPyCZxWT16rAKpI9l5jzVT5UG+AxLLvEJ790xd7byuz1ld1v2s2iq3NWdRzeLy
+M2e/X6Ui1TjD539LN8/znxTZJOchFUNKr5MhX9unmj1+H8x/j4uoPrllhzewf5YLL8oPjCzj
+P6jwbvGsvWJz346mly3zV5pAat5E0tT9mz7luZ6j/BO2K77/BqMSn2Oujwqvr9jH3H/KUcvZ
+zW9QSwECFwsUAAAACAD+bJJR8RjqOooCAAB4CwAABwAJAAAAAAAAAAAAAIAAAAAAc3RyLmRh
+dFVUBQAHA7HcX1BLBQYAAAAAAQABAD4AAADAAgAAAAA=</Image>
 						<AppliesTo>
 							<Apply type="Class">
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
-					<Stereotype name="message" metatype="Message" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
-						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAFx7m1BX1Id9SwIAAIgIAAAHABEAc3RyLmRhdFVUDQAHlvmmXpb5pl6W+aZe
-vVVNbxMxEH3XIPEfrHIJUqXSljSJqh5oqeAAtEoqcUQhm6YVyyZKloKo+t95M7Pej6xNA4dq
-5Y/1PL95Ho/tNW4wwRIzOHxn7xYZnuMZ/+617dD+heMpLXPaHE5YdnCGc3zCFesR/44L7F0D
-exLFZVhgrZ4T9n4SmWOFH1RhCFd812T6xdEEb4gXlVMiR5yX07Io1fjZlQer33LsGmNif7PX
-RQ+vsKv1ywJpuDGtOS5ZZ/hMdMK/G+L3S1yH/gUjilJ+U3pPWVaKGuKAvM1WZjrs8XPEjDj+
-juWU48Y3U55brkqYu5wxUG1SDlkftlTGFRxwjsz07T7n9h5VMCriOeGq5+QSFUcaoddaD7SW
-kSoKT62kryymZFgw1ZW09+8soMZmN+Mpak6Jy/ktmPsO7zWvptx5OQXzgvsjrXdkvmLrVQ24
-O5WSD4r3iD7XHNYaYpL1xZjaqw7xGGpAvhjPkWZW3VPFFYuccEoexyInzMtIzPzpDa23V5yM
-kM6+nh7JvW0i18zLUOS2YZLIbMM0bDH5SDiNW6ZzJIctDq7kWT8S6SrG7Uhv6rVzWb8ZNvX6
-kxvPKp/BdUTIS/2WDHNs3qOV6rWe5RXrpeaH3KUV179G4m/3Q+im8jt0TnRCPyEF8mIs8I1M
-Ifs2q4hrit9Z/6vIMB08lH/2etq7nbL3FfKeiOW+VC9RviCrvMaye12+j2MWuw8tVk7R/sRa
-PieQV9P226kSa2d8i3PIqyz7VVma/jtUJT4z2tPC6wu2E96xM/Z2ylXZaizafwBQSwECFwsU
-AAAACABce5tQV9SHfUsCAACICAAABwAJAAAAAAAAAAAAAIAAAAAAc3RyLmRhdFVUBQAHlvmm
-XlBLBQYAAAAAAQABAD4AAACBAgAAAAA=</Image>
+					<Stereotype name="message" metatype="Message" notes="" cx="0" cy="0" bgcolor="11119017" fontcolor="-1" bordercolor="6908265" borderwidth="1" hideicon="0">
+						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAC5uklEPUDmXXQIAANQIAAAHABEAc3RyLmRhdFVUDQAHc7PcX3Oz3F9zs9xf
+vVbLTiMxEOxrkPgHCy5BQlpeIYlWHJbnHmAXJaw4omwmBMQwiTIDi0D8O9Xd9jwy9hI4oNHY
+E3e5XC637aR0QwOa0ogM3ePrlhJapiX8epG6gfgV2mNExogZ2sO7Qgd0RL/oAmUPv75b7GMF
+uxfEJTShVEaO8PUPyIxm9AAVijD2uQbTE1oj+gE8qxwC2UO/DJFJrsb1LkbQ8hBt19QH9hlf
+TWrRBq1LuWaRiusjmtE5yoQugY7w6wb4zRzXoG94UsGxqhjPEApivDNBdmkL3NWaexvpaYDp
+of0E7z7alTPMdyKRP4KY0bFFHJQQayVtI4newiHGNzFyR+bJ7zbK7dqMwyNvoQ/3dPUm+rbe
+nUnPrs0ADo7BxSp2xe0dKTtSckuh+quVtIVFlXQtU1lJPRfKfjsV2rvqJ6vZBy7DM8E+MvRT
+cnSILOIdNbbcZ4g+gvkCtVPVweoUSk4F7xBtzNmv1cfE8wsx1Wft41FUB3whnl3JrPJIBVfI
+Oebk/RByjpmnAc/cSeCbb8vuMJ/OtuxCzr1FnKvmpc+5RZjYmUWYujUm54QR3xLpwzmsPpic
+J33H6cLjutPzenVflk+Geb1u54azymVwGeEbpXzi+jnmz+RCdSp7eYZyKvnB53LB9VEn/nc+
++E4qt0JHQEcYx6eAb58J3YHJF19kFmFN4TPrs4oU06DX/JfexPofIMbXX+L7hCMvuXp2+TdY
++Wbn1Wviru3j1fNQvTKCdjtW8zkivoF1vY0o0XqEez0jvuF5vYpIdfwGVPGYCeKxHXUV9QBn
+7AhfK/msdDbq9htQSwECFwsUAAAACAAubpJRD1A5l10CAADUCAAABwAJAAAAAAAAAAAAAIAA
+AAAAc3RyLmRhdFVUBQAHc7PcX1BLBQYAAAAAAQABAD4AAACTAgAAAAA=</Image>
 						<AppliesTo>
 							<Apply type="Class">
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
@@ -559,10 +604,11 @@ AAEAAQA+AAAADQIAAAAA</Image>
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
-					<Stereotype name="Message Canonical" metatype="Message Canonical" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+					<Stereotype name="Message Canonical" metatype="Message Canonical" notes="" cx="0" cy="0" bgcolor="11119017" fontcolor="-1" bordercolor="6908265" borderwidth="1" hideicon="0">
 						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIANJYnFA08c/J0QEAAFgFAAAHABEAc3RyLmRhdFVUDQAHUQ6oXlEOqF5RDqhe
 jVTbTsJAEJ3XmvgPG3ypiYkCIhDDg6LRB28pJD4apOWS1EKgopH4756ZWXqjBNPs7Hbn7Jkz
 s5clTWhAcwrI0AdGU4rokA7wt5begf8N8yE8Y/gMddAq1KVbeqI+rIe/S4td5bCdnbiIZrSU
@@ -580,6 +626,7 @@ AAAABwIAAAAA</Image>
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 						<TaggedValues>
@@ -606,10 +653,11 @@ AAAAAA==</Image>
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
-					<Stereotype name="Message Event " metatype="Message Event " notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+					<Stereotype name="Message Event " metatype="Message Event " notes="" cx="0" cy="0" bgcolor="11119017" fontcolor="-1" bordercolor="6908265" borderwidth="1" hideicon="0">
 						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAJRSmFBtuRWMtQEAANgEAAAHABEAc3RyLmRhdFVUDQAHir2iXoq9ol6KvaJe
 nVTbSgMxED2vK/gPQV9WULQXtSJ98FJ88ca24KO03e0F1q202yqK/+6ZZNNsWrUgIZNscmbm
 zGRmZxihi1ckUHjhbowM29jCp5aqGCM88y7l7ZD3Ck3OHVyhhXt0KCN+nWuNAAsP2/wVJzLD
@@ -626,10 +674,11 @@ LmRhdFVUBQAHir2iXlBLBQYAAAAAAQABAD4AAADrAQAAAAA=</Image>
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
-					<Stereotype name="Message Expiration" metatype="Message Expiration" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+					<Stereotype name="Message Expiration" metatype="Message Expiration" notes="" cx="0" cy="0" bgcolor="11119017" fontcolor="-1" bordercolor="6908265" borderwidth="1" hideicon="0">
 						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAEJPmFCScPxApQIAAPIJAAAHABEAc3RyLmRhdFVUDQAHObiiXjm4ol45uKJe
 nVZNb9NAEJ2rkfgPFr24UiRoQ5tEqAdaKjgAqZJIPaIQu2mE60S2aRGI/86bmd3Ym+w2CbJ2
 be++mXn7Zr8quqcprSijmB7wtaCCXtIL+iN1hN5vaM3RPkdPTBcor+iKrukrTVCP8PfOYB8d
@@ -651,13 +700,14 @@ AgAAAAA=</Image>
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 						<TaggedValues>
 							<Tag name="messageTimeOut" type="enumeration" description="" unit="" values="false,true" default="false"/>
 						</TaggedValues>
 					</Stereotype>
-					<Stereotype name="Message Fail" metatype="Message Fail" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+					<Stereotype name="Message Fail" metatype="Message Fail" notes="" cx="0" cy="0" bgcolor="11119017" fontcolor="-1" bordercolor="6908265" borderwidth="1" hideicon="0">
 						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAAxQnFAiHzgaDQEAAHgCAAAHABEAc3RyLmRhdFVUDQAH1v6nXtb+p17W/qde
 bZJdSwJBFIbfWwP/w7DdKIhWIARdZkWQFBh0GWtOKaxraN/hf++ZM7uubjKcjznnPZ8zPfXk
 NNRAV8h7eT1pqlwLZdCLvrE+oy2RF7rWnZo6ICZExfujLpVqBr7yfNrpakxkoA+oS+53wwRa
@@ -671,6 +721,7 @@ BQAH1v6nXlBLBQYAAAAAAQABAD4AAABDAQAAAAA=</Image>
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
@@ -690,40 +741,42 @@ XlBLBQYAAAAAAQABAD4AAACpAQAAAAA=</Image>
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
-					<Stereotype name="Message History" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
-						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIACaioVCThpQFLgMAADYNAAAHABEAc3RyLmRhdFVUDQAHz4OsXs+DrF7Pg6xe
-tVfJbtswEJ2rC/QfBOfiAClaxzuKHLr30LRFbKDHwo2dBXDkwHaXtMi/970Z0SJlSjICBAJJ
-SXx8s3IoreVKpnIrc0nkBnfXkspTeYKnfzo2MP8d7xeYucRcIidoTXkj7+SzTNCf4ellhv0V
-YE9KcaksZa2SZ7j7DeRGVvITWhgiya4LMP3B25m8Ap5angN5hnUbzCy32rjVuQTr3+LdhYyB
-/Yu7lvTkhRxpf5gh2Z7jSqBhCv3n0H6pkoxhjLuNfEWfwpalzq7ANFKmvHd84YpvkDzD0xVW
-tHcw7zG7wOXzHkO7HjjdGGragO3mgynYL7Eqt6qDNU6jPu5zabE1Q0V3VMZQBui7gYbOg6fQ
-i16ZYKQktypHftKccQhKLiKquQa1XD6immtUy+Uj9o9XUdpQ/VUubQhJRUSZ5uSi/tVcIaKa
-qzw6jitH7O+DtWK4I5mz55LnbBt20rvhyJVJtrdayMEj+YD2Gu+NjzuNleJWmZn51I3ru2rH
-sRd314yNslO1illNHVgpbKQFu7s49JNlvc9f9JMh/DpRRMQrCds1dGnJR+y2NbBT7LgW6tIp
-Vq5x8XkOf2/kTndiEyxNrQQrzG5gQYhsgv9wW43rInEMfbpqWwcZ76pIbkOsEvTVkoH2w0g9
-K/dglX9cZSlHmFwfca9xo3XOXsab/uTZ5HslgWVJFvEOmJNH8UxXbWhjpdVUeyJTvu5hfmkr
-axnGyfUxhrP8L/NITCOLa3gehNIMMQi8Uawa1CdE1Ps7PMfa6vdqf1v29XX3j7L86RQ8UHYe
-9yCB0izKfMpl3WQeYa1wUnzmhrAO0V5DmGzqEcqO8QwCq0KeoVri8zi/FZl4/tZr5EeArcwX
-Zd8mrj2kQk1wHrBGzfaqULEcrMowQ4wCT8VyMERY/xg5aJEzr3MX7puFTpJl424VLcbdyaqO
-e0yDIpNlUB3TyLM/zmNx8CMVy+lQo/stX+zOvvPtD2OBux/CKs8ZyxgXwS/wIP8bKI35ONbM
-oz7PIM80sjrv/g6sGs6E3/imYyL8brFxjj8Hnqfuy8DNhDo0oBnlpphfZJIPME61vh5odvtW
-WiT/A1BLAQIXCxQAAAAIACaioVCThpQFLgMAADYNAAAHAAkAAAAAAAAAAAAAgAAAAABzdHIu
-ZGF0VVQFAAfPg6xeUEsFBgAAAAABAAEAPgAAAGQDAAAAAA==</Image>
+					<Stereotype name="Message History" notes="" cx="0" cy="0" bgcolor="11119017" fontcolor="-1" bordercolor="6908265" borderwidth="1" hideicon="0">
+						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAGBuklEUzpdoOwMAAIINAAAHABEAc3RyLmRhdFVUDQAH5LPcX+Sz3F/ks9xf
+tVfbattAEJ1XF/oPwnlxIND6LlPy0Gv60LQlduljcWPnAo4dbPdO/r3nzGijXXklmUAQWkne
+s2dmzsyOrI1cyVRuZS6J3ODuWpbyVJ7g6Z9eG5j/ht8XmLnEXCLHOJvyWt7KR5lgPMPTiwz7
+M8Ael+KWspKNWp7h7heQW1nLD3hhiCQ7LsD0G7/O5CXw9PIcyDOs22Jmde+NW51bsPENfruQ
+MbB/cdeSvjyXIx0PMyTPZzgSeLiE/3N4v1JLxjDG3VY+Y1wilpXOrsE0UqZ8dHzhiq+wPMPT
+FVa0dzDvMLvA4fN24F0fnO4aetpA7KbBFOyXWJVH1cUa59EA97m12JpU0V21kcoQYy/w0Cl4
+Cr+oygRXWnKrcuQHrRmHoOUiopprWMvlI6q5RrVcPmL/fBWtpapXubUUloqIMs/JRf+ruUJE
+NVd5dhxXjthfA+6SjeK4K1m355LXbRuxUuHwytVJtr9aqMMjOcH5Cr8bZznfic58UcQ6ulMO
+CzFw57Lz3Ooa7iTGSl96qkvHqyN3mme0u1SVuEvIzs5jVyqy2xVC3W0X+fxF3Q3h950iIt6Z
+eF7Dl5a8x+7dADvFDm6hz51i5QYHn+fI31b+6M5ugqWpeq0xu0UEIbKpurnuXpeFDvzpaWxd
+7CDXlfIYYp1loJEMdUwj/bFcwSp9XKcqR5hdH3GneWN0Ll7mm3ryXeerkiCyJMt4F8zJoyjT
+0xjaWGk92p7IlK97mC5tZS3DOLs+xnBW/2WKxDyyvIbvl9CaIYaBGsUuRH9CRL3e4XuxrbpX
+623VN9DdP8rqp1tQoOz93ocFWrMs8ym3dZMpwl7hrPjMDWEfYryGMNv0I7Qd4xkGUYU8qUbi
+8zjdikx8n9d75GeAZ5kWZf913PmQDjXB+4U9arZXh4rVYFWFGWIUKBWrwRBh42PUoGXOVOcu
+3LcKnSWrxt0uWsy7s1Wd95gHRSaroDqmkRd/nMfy4GcqVtOhR3f3fLE7+26wL5YF7r4Luzxn
+rGJcBj9BQX6H0BrrcayVR39MR+vx7kvDOuFM+L1g/iXC/0B2neMrhO9S96/AzYT2G/CKNpeY
+X2RWD3Cdam890Mr2I7Qs/gdQSwECFwsUAAAACABgbpJRFM6XaDsDAACCDQAABwAJAAAAAAAA
+AAAAAIAAAAAAc3RyLmRhdFVUBQAH5LPcX1BLBQYAAAAAAQABAD4AAABxAwAAAAA=</Image>
 						<AppliesTo>
 							<Apply type="Class">
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 						<TaggedValues>
 							<Tag name="MessageStyle" type="enumeration" description="" unit="" values="First Message,Second Message,Third Message" default="First Message"/>
 						</TaggedValues>
 					</Stereotype>
-					<Stereotype name="Message Request Response" metatype="Message" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+					<Stereotype name="Message Request Response" metatype="Message" notes="" cx="0" cy="0" bgcolor="11119017" fontcolor="-1" bordercolor="6908265" borderwidth="1" hideicon="0">
 						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAFx8oVCBgHiMggIAALAIAAAHABEAc3RyLmRhdFVUDQAHlkGsXpZBrF6WQaxe
 rVVdb9MwFL2vReI/WN1LJyHB1rXrhPYwxoAHvtRO4hGVJWsrsnQ0YQwm/jvn3JvEcWjTCqHI
 dmwfX5977rWdyVymciuxOLnB30JSeSyP0HvQtoP5zxhPMDPDnJNTlK6cy4W8l0vUY/SeF9i7
@@ -744,6 +797,7 @@ rF5QSwUGAAAAAAEAAQA+AAAAuAIAAAAA</Image>
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 						<TaggedValues>
@@ -767,6 +821,7 @@ AAAAAQABAD4AAADZAQAAAAA=</Image>
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
@@ -788,6 +843,7 @@ AAUCAAAAAA==</Image>
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
@@ -807,10 +863,11 @@ XlBLBQYAAAAAAQABAD4AAACpAQAAAAA=</Image>
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
-					<Stereotype name="Message Wrapper" metatype="Message Wrapper" notes="" cx="70" cy="50" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+					<Stereotype name="Message Wrapper" metatype="Message Wrapper" notes="" cx="70" cy="50" bgcolor="11119017" fontcolor="-1" bordercolor="6908265" borderwidth="1" hideicon="0">
 						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIADZmllDgxe1qwgEAACQGAAAHABEAc3RyLmRhdFVUDQAHZz2gXmc9oF5nPaBe
 vVRNS8NAEH3XCP0PoV5aCNgPi4j0UETxoChtwXM1sS3GVJKoFfG/+2Z2N0mhEYUqy85+zHuz
 M7uz08AeMiwwwzMi+HjibIkEDe5/qPS4WllMyNkbhsiR4oX4E0X4tj2QueZuiBHxYu+eyDF5
@@ -827,6 +884,7 @@ AAAAAACAAAAAAHN0ci5kYXRVVAUAB2c9oF5QSwUGAAAAAAEAAQA+AAAA+AEAAAAA</Image>
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 						<TaggedValues>
@@ -851,6 +909,7 @@ AAAAc3RyLmRhdFVUBQAH8VuoXlBLBQYAAAAAAQABAD4AAAAnAgAAAAA=</Image>
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
@@ -872,6 +931,7 @@ dFVUBQAHLhaoXlBLBQYAAAAAAQABAD4AAAAeAgAAAAA=</Image>
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
@@ -892,6 +952,7 @@ ZGF0VVQFAAdFBKheUEsFBgAAAAABAAEAPgAAAOoBAAAAAA==</Image>
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
@@ -913,10 +974,11 @@ AIAAAAAAc3RyLmRhdFVUBQAHPFeoXlBLBQYAAAAAAQABAD4AAAAqAgAAAAA=</Image>
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
-					<Stereotype name="Return Address" metatype="Return Address" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+					<Stereotype name="Return Address" metatype="Return Address" notes="" cx="0" cy="0" bgcolor="11119017" fontcolor="-1" bordercolor="6908265" borderwidth="1" hideicon="0">
 						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIABZ2oVBh+hknqgIAAKAKAAAHABEAc3RyLmRhdFVUDQAHqzasXqs2rF6rNqxe
 vVbfb9MwEL7XIvE/WOOlSEiwdV1ToT2wMeCBX2on8YhK03UTIa3abCAm/ne+u7MTJ7GziAcU
 xU7sz5+/O9/Z3tM1LWhLKzL0A183lNNjeoS/e6kH6P+K9gw9a/QZOsV7QOd0QR/pEuUMfy8t
@@ -938,6 +1000,7 @@ PgAAAOACAAAAAA==</Image>
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
@@ -963,6 +1026,7 @@ gAAAAABzdHIuZGF0VVQFAAeaGaheUEsFBgAAAAABAAEAPgAAAAEDAAAAAA==</Image>
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
@@ -986,6 +1050,7 @@ CQAAAAAAAAAAAACAAAAAAHN0ci5kYXRVVAUAB62Spl5QSwUGAAAAAAEAAQA+AAAAagIAAAAA
 								<Property name="_tagGroupings" value="shapeColour=Shape Options;"/>
 								<Property name="_tagGroups" value="Shape Options"/>
 								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="true"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
@@ -1023,8 +1088,8 @@ CQAAAAAAAAAAAACAAAAAAHN0ci5kYXRVVAUAB62Spl5QSwUGAAAAAAEAAQA+AAAAagIAAAAA
 				<Stereotypes>
 					<Stereotype name="EIP::Aggregated Message(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 						<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAAjLgAAIy4AAAAAAAAAAAAA
-YQBzACAARABpAGEAZwByAGEAbQBfAEkARAAsACAAbgB1AGwAbAAgAGEAcwAgAFIAZQBjAHQA
-VABvAHAALAAgAG4AdQD////////////////////////9/f3M0c2+vbi8wLrY2tf/////////
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQINUSAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAD////////////////////////9/f3M0c2+vbi8wLrY2tf/////////
 ///////////////////////////29vbo6Ojm5uaOs6ujp6aVtLGptK7+/v7/////////////
 ///////////////////Ly8u+vr7Nzc2GsaqrsK+cvbuquLD+/v7/////////////////////
 ///////////IyMjq6ur7/PuturSgn5ibpp7AxL/+/v7/////////////////////////////
@@ -1045,8 +1110,8 @@ np7k5OT////////////////////////////////////////////////9/f3z8/P4+Pj/////
 					</Stereotype>
 					<Stereotype name="EIP::application(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 						<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAAjLgAAIy4AAAAAAAAAAAAA
-2F5mFsBCvREAfAAA/////8BfYhlAAAAAAAAAAAAAAAAAAAAA9wEAAP8AAAAIAAAA/wAAAAAA
-AAAAAAAAAAAAAAAAAAD19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fXz8/Pz
+AQAAAAEAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAQAAAAAA
+AAAAAAAAAAAAAAEAAAD19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fXz8/Pz
 8/Pz8/Pz8/OTysqTysqTysqTysqTysqTysqTysqSysqQy8qOysqNzMyNtK/ExKfIyKrIyKrI
 yKmm//+m//+m//+m//+m//+m//+m//+k//+h//+d//+Z//+N08v09Mr//9X//9X//9Km//+m
 //+m//+m//+m//+m//+m//+k//+h//+d//+Z//+L0cn09Mr//9X//9X//9Km//+m//+m//+m
@@ -1067,8 +1132,8 @@ wsKXwsKVwsKVw8OVsq67u6S+vqa+vqa9vaU=</Icon>
 					</Stereotype>
 					<Stereotype name="EIP::Channel Adapter(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 						<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAASCwAAEgsAAAAAAAAAAAAA
-aFC5H2hQuR/AQr0RAwAAAP//AAAAAAAAAAAAAAAAAACnBwAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAALRQuR+qqqqnp6enp6enp6fT09PX19fW1tb7+/v/////////////////////
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAHNcWAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAACqqqqnp6enp6enp6fT09PX19fW1tb7+/v/////////////////////
 //////////9NcHA0XFw0XFw0TU2tra1gYF1paWmqqqrn5+f/////////////////////////
 //95/f1l/f1l/f1MrKypqqqgoIibm31VVU6Pj4/7+/v///////////////////////95//9m
 //9m//9Nrq6pqqqvr5P+/svU1Kp9fXn6+vr///////////////////////9o//9m//9m//9N
@@ -1110,8 +1175,8 @@ q6urpaWl09PT////////2NjYlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUkZGRhoaG
 					</Stereotype>
 					<Stereotype name="EIP::Channel Message(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 						<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAAjLgAAIy4AAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAABTXHiAEAAAAAAAAAAAAAACSAAAAAAAAAE+lBgUBAAAAAAAAAAAA
-AABAzvsfMgAAAAAAAAD/////////////////////////////////////////////////////
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQIBEPAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAD/////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////
@@ -1132,8 +1197,8 @@ rq7f39+/v7/h4eGysrKzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Orq6vn
 					</Stereotype>
 					<Stereotype name="EIP::Claim Check Message(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 						<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAAjLgAAIy4AAAAAAAAAAAAA
-AAAAAAIAAAAAAAAARQAAALsfYxkAAAAADNAeIAQAAAAAAAAAAAAAANheZhbAQr0RAYgAAP//
-//8AAAAAAAAAAAAAAAD////////////////////////////////////+/v7+/v77+/v6+vr7
+ZgAuACoAIABmAHIAbwBtACAAdABfAHgAcgBlAGYALAAgAHQAXwBvAGIAagBlAGMAdAAgAHcA
+aABlAHIAZQAgACAAdAD////////////////////////////////////+/v7+/v77+/v6+vr7
 +/v////////////////////////////09PTc3Nzb29ve3t69vb20tLSXl5eAgICdnZ339/f/
 ///////////////////////Q0NC0tLTOzs7Pz892dnZSUlKFhYWJiYmgoKD19fX/////////
 ///////////////Nzc3b29v////+/v7r6+vp6en6+vr7+/v8/Pz/////////////////////
@@ -1175,8 +1240,8 @@ AAAAAAAAAAAA////</Icon>
 					</Stereotype>
 					<Stereotype name="EIP::Component(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 						<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAAjLgAAIy4AAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4SMO1QAN
-AIBIiWVicJuEEbieahajt7ebwMCav7+av7+av7+av7+av7+av7+av7+av7+av7+av7+av7+Z
+AQAAAAEAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAQAAAAAA
+AAAAAAAAAAAAAAEAAACjt7ebwMCav7+av7+av7+av7+av7+av7+av7+av7+av7+av7+av7+Z
 v7+Yv7+Xv79+wcGf/v6f/f2f/f2f/f2f/f2f/v6f/v6f/v6f/v6f/f2f/f2e/f2a/f2X/f2T
 /v5+wMCg//+g//+g//+g//+g//+g//+g//+g//+g//+g//+g//+f//+c//+Y//+U//9+wMCg
 //+g//+g//+g//+g//+g//+g//+g//+g//+g//+g//+f//+b//+Y//+U//9+wMCg//+g//+g
@@ -1260,8 +1325,8 @@ RHFbRHFbPGJPrK6t</Icon>
 					</Stereotype>
 					<Stereotype name="EIP::Control Bus(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 						<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAAjLgAAIy4AAAAAAAAAAAAA
-AAAAAAAAAAD4EjAgbKIGBQQAAACAyB4gAAAAACgEyx8AAAAAAAAAAAAAAAABAQAAmPR1FihM
-vREASgEA/////8A/TBn/////////////////////////////////////////////////////
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAHNcWAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAD/////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////
 ///////+/v7t7e3Y2NjOzs7Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Ozs7a2trw8PD////////7+/vM
 zMyqqqqsrKynp6empqampqampqampqaoqKiysrK1tbWqqqqkpKTU1NT9/f3Z2dmsrKyys7J0
@@ -1282,8 +1347,8 @@ wMC1tbXPz8/Dw8O4uLiDg4MhVSFNuk0JHgkAAAABAQFFqEUyfjIKCgqRkZHAwMDAwMCzs7PS
 					</Stereotype>
 					<Stereotype name="EIP::Corrolation ID Message(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 						<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAAjLgAAIy4AAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAKqhBgUBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA
-AAABAAAAAAAAAAAAAAD////////////////////////////////v7+/X2NjW19jc3N37+/v/
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4NM1yAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAD////////////////////////////////v7+/X2NjW19jc3N37+/v/
 ///////////////////////////////+/v79/f38/Py3vr5Eo8NCnc9VeJnr6+v/////////
 ///////////////////+/v7FxcWvr6+2traNkplEsuZJvvtTlLbp6en/////////////////
 ///////////8/Pytra3r6+v09PSyt7o8mtRBq+ZUmLDp6ur/////////////////////////
@@ -1325,8 +1390,8 @@ urq6urq6urq6urq6urq6vLy89/f3////////////////////////////////////////////
 					</Stereotype>
 					<Stereotype name="EIP::Detour(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 						<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAAjLgAAIy4AAAAAAAAAAAAA
-AAAAAAIAAAAAAAAARQAAALsfYxkAAAAADNAeIAQAAAAAAAAAAAAAANheZhbAQr0RAYgAAP//
-//8AAAAAAAAAAAAAAAD19fX19fX19fX19fX09PT09PT09PT09PT19fX19fX19fX19fX19fX1
+ZgAuACoAIABmAHIAbwBtACAAdABfAHgAcgBlAGYALAAgAHQAXwBvAGIAagBlAGMAdAAgAHcA
+aABlAHIAZQAgACAAdAD19fX19fX19fX19fX09PT09PT09PT09PT19fX19fX19fX19fX19fX1
 9fX19fX19fWUx7CUx7CUx7CUx7CUx7CUx7CUx7CUx7CTx7CRyK+PyK6OyK2MyK2KyKyIyauH
 yaqu/+Gu/+Gu/+Gu/+Gu/+Gu/+Cu/+Ct/+Cs/+Co/96k/92g/9yc/9uY/9mU/9iQ/9eu/+Gu
 /+Gu/+Gu/+Gt/+Cs/t+u/+Gu/+Gs/+Cp/9+j/tyg/9uc/9uZ/9qU/9iR/9eQ3L2P2ruP27uP
@@ -1347,8 +1412,8 @@ kHhxtJSEza2BzKx/zax4x6V4y6d1zahxzaduzaZu0aiu/+Gu/+Gu/+Gu/+Gu/+Gf7s99xKWr
 					</Stereotype>
 					<Stereotype name="EIP::EIP Message Images(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 						<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAATCwAAEwsAAAAAAAAAAAAA
-AAAAAAIAAAAAAAAARQAAALsfYxkAAAAADNAeIAQAAAAAAAAAAAAAANheZhbAQr0RAYgAAP//
-//8AAAAAAAAAAAAAAADj2NaaoqGGpqWEo6KFpaSGqKeIqaiIqaiIqaiIqaiHqaiFpqWEo6KF
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACouJ1tAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAADj2NaaoqGGpqWEo6KFpaSGqKeIqaiIqaiIqaiIqaiHqaiFpqWEo6KF
 pqWPo6HWy8nWy8k8yckl+fkl+Pgl+fkg7e0e6Oge6Oge6Oge6Oge6ekk+Pgl+Pgl+fki4+O5
 trXVysg6y8sq//8q//8o/f0YtrYNj48RkZERkZEOkJAQn58m9vYq//8q//8j6Oi2tLLWy8g5
 yskp//8q//8p/v4e1tYZy8sbzc0azMwYyckXyckn+voq//8q//8i5+e2tLHWy8g60NAn+/sn
@@ -1390,8 +1455,8 @@ pqampqampqam2NjY</Icon>
 					</Stereotype>
 					<Stereotype name="EIP::Generic Messages(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 						<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAAjLgAAIy4AAAAAAAAAAAAA
-AAAAAAAAAAD4EjAgbKIGBQQAAACAyB4gAAAAACgEyx8AAAAAAAAAAAAAAAABAQAAmPR1FihM
-vREASgEA/////8A/TBn/////////////////////////////////////////////////////
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQL1dzAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAD/////////////////////////////////////////////////////
 ///////////////////////////////////////////////////39/fb29vU2dLz8/P/////
 ///////////////////////////////////////19fWVlpY9Ykw4aUCAg4Dt7e3/////////
 ///////////6+vre3t7Y2NjY2Njb29u9vb1LnJSE7aqN8JZYsYCztLT+/v7/////////////
@@ -1475,8 +1540,8 @@ RHFbRHFbPGJPrK6t</Icon>
 					</Stereotype>
 					<Stereotype name="EIP::Message Canonical(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 						<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAAjLgAAIy4AAAAAAAAAAAAA
-AAAAAMAAAAD/AAAACAAAAP8AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAABFAAAAu69iGQAA
-AADk6B4gBAAAAAAAAAD////////////////////////////////////+/v7+/v7+/v7+/v7+
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwYIZuAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAD////////////////////////////////////+/v7+/v7+/v7+/v7+
 /v7////////////////////////////////////////9/f3Pz8+6tbXIvb3FwcG/tbXq6ur/
 ///////////////////////////////////39/d/mZmDq6uYfX2Gr6+PW1vExMT+/v7/////
 ///////////u7u7f39/f39/g4ODe3t59pKSY0NCtpKSaz8+ebm7Jycn+/v7////////////6
@@ -1539,8 +1604,8 @@ gICAeXl539/f////////////////////////////////////////////5OTkfHx8gICAhYWF
 					</Stereotype>
 					<Stereotype name="EIP::Message Expiration(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 						<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAAjLgAAIy4AAAAAAAAAAAAA
-NOweIAQAAAAAAAAAAAAAANheZhbAQr0RAZUAAP////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAD/AAAACAAAAP8AAAD////////////////////////////////f39+6wMG6vsLBwsT19fb/
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQL1dzAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAD////////////////////////////////f39+6wMG6vsLBwsT19fb/
 ///////////////////////////////7+/v5+fn5+fmjsLFErNVAr+FDeqbk5eX/////////
 ///////////////////39/eoqKiqqqqysrJ+iZRKuutDuftFjrzk5OT/////////////////
 ///////////z8/OsrKz39/f5+fmjqrA7l9M7p+NHp7bk5OT/////////////////////////
@@ -1561,8 +1626,8 @@ t7efn5+tra39/f3////////////////////////////////////////y8vK2traTk5O2trbz
 					</Stereotype>
 					<Stereotype name="EIP::Message Fail(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 						<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAATCwAAEwsAAAAAAAAAAAAA
-AAAAAAAAAAD4EjAgbKIGBQQAAACAyB4gAAAAACgEyx8AAAAAAAAAAAAAAAABAQAAmPR1FihM
-vREASgEA/////8A/TBn+/v7z8/b4+Pn////////////////////////////////////8/P3x
+AQAAAAEAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAQAAAAAA
+AAAAAAAAAAAAAAEAAAD+/v7z8/b4+Pn////////////////////////////////////8/P3x
 8fT8/Pz////n5+1zc6OLi7br6/L////////////////////////////5+fu4uNFjY5y/v9H+
 /v7c3OU6Oo4ICJSEhL7s7PP////////////////////6+vu4uNcyMpwGBoilpcL9/f36+vu2
 ttE0NKIJCaOEhMDs7PP////////////5+fu4uNc1NaQJCaODg7rs7PL////////5+fu4uNc1
@@ -1604,8 +1669,8 @@ AAAAAAAAAAAA////</Icon>
 					</Stereotype>
 					<Stereotype name="EIP::Message History(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 						<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAATCwAAEwsAAAAAAAAAAAAA
-SIllYnCbhBG4nmoWuB87IAUAAAAAAAAAAAAAAAAAAAAoOrkfKDq5H8BCvREDAAAA//8AAMDB
-QCAAAAAAAAAAAJQHAAD////////////////////////////w8PChs7OWpLKXo6/b2tz/////
+AQAAAAEAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAQAAAAAA
+AAAAAAAAAAAAAAEAAAD////////////////////////////w8PChs7OWpLKXo6/b2tz/////
 ///////////////////////////6+vrx8fHx8fHb3NxcqchXue5QntzBxcn/////////////
 ///////////////////T09PBwcHNzc3BwcJXpcpaufVSp+HBxcn/////////////////////
 ///////////R0dHt7e3////n5+hkhapcmctfssTGzMz/////////////////////////////
@@ -1626,8 +1691,8 @@ n5+xsbH6+vr////////////////////////////////////////////4+Pji4uLj4+P6+vr/
 					</Stereotype>
 					<Stereotype name="EIP::Message Request Response(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 						<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAAjLgAAIy4AAAAAAAAAAAAA
-SIllYnCbhBG4nmoWuB87IAUAAAAAAAAAAAAAAAAAAAAoOrkfKDq5H8BCvREDAAAA//8AAMDB
-QCAAAAAAAAAAAJQHAAD////////////////////////////////////////////+/v78/Pz/
+AQAAAAEAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAQAAAAAA
+AAAAAAAAAAAAAAEAAAD////////////////////////////////////////////+/v78/Pz/
 ///////////////////////////////////////////////////8/PzP0NSiorLx8fH/////
 ///////////////////////////8/Pz19fX19fXz8/O+xcZSiMklZcORpK7w8PD/////////
 ///////////////////IyMicnJynp6ehoqJaq69KsPg1hOVRwM/Iy8v/////////////////
@@ -1795,8 +1860,8 @@ pqampqampqamxMTE</Icon>
 					</Stereotype>
 					<Stereotype name="EIP::Request Reply(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 						<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAAjLgAAIy4AAAAAAAAAAAAA
-AAAAAAAAAAD4EjAgbKIGBQQAAACAyB4gAAAAACgEyx8AAAAAAAAAAAAAAAABAQAAmPR1FihM
-vREASgEA/////8A/TBmu/+Gu/+Gu/+Gu/+Gu/+Gu/+Gu/+Gu/+Gt/+Gq/+Cm/96j/92g/9yc
+AQAAAAEAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAQAAAAAA
+AAAAAAAAAAAAAAEAAACu/+Gu/+Gu/+Gu/+Gu/+Gu/+Gu/+Gu/+Gt/+Gq/+Cm/96j/92g/9yc
 /9uZ/9qV/9mu/+Gu/+Gu/+Gu/+Gu/+Gu/+Gu/+Gu/+Gt/+Gq/+Cm/96i/92e/9ub/9qY/9mV
 /9mu/+Gu/+Gu/+Gu/+Gu/+Gu/+Gu/+Gu/+Gt/+Gq/+Cm/96H3rpqsZFosJBmuJSM9c2u/+Gg
 8NCN17iDyquX5sWX5saX5saX5saW5sWT5cOY8c1sqo7FxcXY2NiIjop947qu/+GQ3r1Ofmc1
@@ -1817,8 +1882,8 @@ tqqetqqetqmdtqmdtqmctqict6ict6ibt6g=</Icon>
 					</Stereotype>
 					<Stereotype name="EIP::Resequencer(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 						<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAAjLgAAIy4AAAAAAAAAAAAA
-YQBzACAARABpAGEAZwByAGEAbQBfAEkARAAsACAAbgB1AGwAbAAgAGEAcwAgAFIAZQBjAHQA
-VABvAHAALAAgAG4AdQCYzbOXzbKXzLKXzLKXzLKXzLKXzLKXzLKXzLKXzbKWzbGUzbCSzbCR
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwqBZuAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAACYzbOXzbKXzLKXzLKXzLKXzLKXzLKXzLKXzLKXzbKWzbGUzbCSzbCR
 za+Pzq6Nzq2l/9il/9il/9il/9il/9il/9il/9il/9il/9ik/9eh/9ad/9SZ/9KV/9CQ/8+M
 /82l/9il/9ii/NWh+9Oh+9Oi/NSl/9il/9il/9il/9ii/9ad/9SZ/9OV/9GR/8+N/82l/9ih
 +tNyrZGCo5KBopFun4eb8sul/9il/9il/9ii/9ad/9SZ/9OV/9GR/8+N/82l/9ie9s+LoZXx
@@ -1839,8 +1904,8 @@ xrirxrirxriqxrepxreox7aox7anx7Wmx7U=</Icon>
 					</Stereotype>
 					<Stereotype name="EIP::Return Address(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 						<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk16AwAAAAAAAHoAAABsAAAAEAAAABAAAAABABgAAAAAAAADAAATCwAAEwsAAAAAAAAAAAAA
-YQBzACAARABpAGEAZwByAGEAbQBfAEkARAAsACAAbgB1AGwAbAAgAGEAcwAgAFIAZQBjAHQA
-VABvAHAALAAgAG4AdQD////////////////////////////w8PChs7OWpLKXo6/b2tz/////
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwqBZuAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAD////////////////////////////w8PChs7OWpLKXo6/b2tz/////
 ///////////////////////////6+vrx8fHx8fHb3NxcqchXue5QntzBxcn/////////////
 ///////////////////T09PBwcHNzc3BwcJXpcpaufVSp+HBxcn/////////////////////
 ///////////R0dHt7e3////n5+hkhapcmctfssTGzMz/////////////////////////////
@@ -1921,6 +1986,7 @@ wsLCwsLDxcPEysbD0sm/0ce6y8K4x7+4x74=</Icon>
 						</AppliesTo>
 						<TaggedValues>
 							<Tag name="EIP::EIP Association(UML::Association)" type="" description="" unit="" values="" default="EIP Association"/>
+							<Tag name="EIP::EIP Async Assocation(UML::Association)" type="" description="" unit="" values="" default="EIP Async Assoc"/>
 						</TaggedValues>
 					</Stereotype>
 					<Stereotype name="System Management" notes="The things that can be added to a diagram." cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
